@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <VCE_RawOnion.label>цибуля</VCE_RawOnion.label>
+    <VCE_RawOnion.description>Смачний луковий бульбашка з гострим, смачним смаком та запахом, що має практично так само багато сортів, як і способів приготування.</VCE_RawOnion.description>
+
+    <VCE_RawPumpkin.label>гарбузи</VCE_RawPumpkin.label>
+    <VCE_RawPumpkin.description>Технічно говорячи, гарбуз є гігантською ягодою, що славиться своєю легкістю як при сівбі, так і при збиранні врожаю.</VCE_RawPumpkin.description>
+
+    <VCE_RawPepper.label>перці</VCE_RawPepper.label>
+    <VCE_RawPepper.description>Дрібні, гострі, червоні стручки, часто використовуються в соусах, соленьях або порошках. Незважаючи на те, що смак самого перцю м'який, капсаїцин, що міститься всередині, робить їх дивно пристрасними для людей, але болючими, коли їх споживають у великих кількостях. Відомо, що тварини уникатимуть його споживання.</VCE_RawPepper.description>
+
+    <VCE_RawPeas.label>горох</VCE_RawPeas.label>
+    <VCE_RawPeas.description>Кулясті зелені насіння, добре заховані в м'ясистій стручці. Горох має помітний термін придатності при правильному сушінні.</VCE_RawPeas.description>
+
+    <VCE_RawEggplant.label>баклажани</VCE_RawEggplant.label>
+    <VCE_RawEggplant.description>Бульбозний фіолетовий фрукт родини пасльонових. Баклажан рідко подають як гарнір, зазвичай він виступає в ролі основної складової страви.</VCE_RawEggplant.description>
+
+    <VCE_RawCabbage.label>капуста</VCE_RawCabbage.label>
+    <VCE_RawCabbage.description>Дещо міцна, листяна зелена овоч, часто нарізана та квашена або тушкована.</VCE_RawCabbage.description>
+
+    <VCE_RawBeets.label>буряки</VCE_RawBeets.label>
+    <VCE_RawBeets.description>Рослина-овоч, що широко культивується як для людей, так і для худоби, значною мірою поживна та історично використовувана для виготовлення фарб.</VCE_RawBeets.description>
+
+    <VCE_RawTomatoes.label>помідори</VCE_RawTomatoes.label>
+    <VCE_RawTomatoes.description>Соковиті, блискучо-червоні плоди, прикріплені до виноградної лози, які часто використовуються як овоч. Сильне тушкування вивільняє природні цукри та знижує кислотність, яка міститься всередині.</VCE_RawTomatoes.description>
+</LanguageData>
