@@ -12,13 +12,13 @@
                     <xs:element type="xs:string" name="fullname" minOccurs="0"/>
                     <xs:element name="links" minOccurs="0">
                       <xs:complexType>
-                        <xs:sequence>
+                        <xs:all>
                           <xs:element type="xs:string" name="discord" minOccurs="0"/>
                           <xs:element type="xs:string" name="twitter" minOccurs="0"/>
                           <xs:element type="xs:string" name="instagram" minOccurs="0"/>
                           <xs:element type="xs:string" name="facebook" minOccurs="0"/>
                           <xs:element type="xs:string" name="reddit" minOccurs="0"/>
-                        </xs:sequence>
+                        </xs:all>
                       </xs:complexType>
                     </xs:element>
                   </xs:sequence>
