@@ -1,0 +1,35 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ModInfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="authors">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="li" maxOccurs="unbounded" minOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="nickname"/>
+                    <xs:element type="xs:string" name="fullname" minOccurs="0"/>
+                    <xs:element name="links" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="discord" minOccurs="0"/>
+                          <xs:element type="xs:string" name="twitter" minOccurs="0"/>
+                          <xs:element type="xs:string" name="instagram" minOccurs="0"/>
+                          <xs:element type="xs:string" name="facebook" minOccurs="0"/>
+                          <xs:element type="xs:string" name="reddit" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:dateTime" name="lastUpdate"/>
+        <xs:element type="xs:string" name="note" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="./Scheme.xsd">
+    <authors>
+        <li>
+            <nickname>Inadequado</nickname>
+            <fullname>K.V.V.</fullname>
+            <links>
+                <reddit>inadequado4192</reddit>
+            </links>
+        </li>
+    </authors>
+    <lastUpdate>2023-09-27T13:18:50.602Z</lastUpdate>
+</ModInfo>
