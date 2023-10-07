@@ -1,0 +1,21 @@
+{
+    "secureВomains": [
+        "/^https?:\\/\\/(www.)?ludeon\\.com/",
+        "/^https?:\\/\\/(www.)?reddit\\.com/",
+        "/^https?:\\/\\/(www.)?facebook\\.com/",
+        "/^https?:\\/\\/(www.)?instagram\\.com/",
+        "/^https?:\\/\\/(www.)?twitter\\.com/",
+        "/^https?:\\/\\/(www.)?steamcommunity\\.com/",
+        "/^https?:\\/\\/(www.)?github\\.com/",
+        "/^https?:\\/\\/(www.)?discord\\.gg/",
+        "/^https?:\\/\\/(www.)?ko-fi\\.com/"
+    ],
+    "modsWithoutLanguages": [
+        ["brrainz.harmony", 2009463077],
+        ["notfood.frameratecontrol", 1591142767],
+        ["telardo.dragselect", 2599942235],
+        ["rwmt.multiplayercompatibility", 1629973374],
+        ["void.charactereditor", 1874644848],
+        ["frozensnowfox.filthvanisheswithrainandtime", 1508341791]
+    ]
+}
