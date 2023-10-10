@@ -18,6 +18,7 @@
                           <xs:element type="xs:string" name="instagram" minOccurs="0"/>
                           <xs:element type="xs:string" name="facebook" minOccurs="0"/>
                           <xs:element type="xs:string" name="reddit" minOccurs="0"/>
+                          <xs:element type="xs:string" name="steam" minOccurs="0"/>
                         </xs:all>
                       </xs:complexType>
                     </xs:element>
