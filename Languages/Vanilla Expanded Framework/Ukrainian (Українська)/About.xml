@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ModInfo
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="./Scheme.xsd">
-    <author>Inadequado</author>
+
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Inadequado4192/RWML-Public/master/Languages/Scheme.xsd">
+    <authors>
+        <li>
+            <nickname>Inadequado</nickname>
+            <fullname>K.V.V.</fullname>
+            <links>
+                <discord>inadequado4192</discord>
+                <instagram>https://www.instagram.com/inadequado4192</instagram>
+                <steam>https://steamcommunity.com/id/inadequado4192/</steam>
+            </links>
+        </li>
+    </authors>
     <lastUpdate>2023-09-27T13:18:50.602Z</lastUpdate>
-    <links>
-        <discord>inadequado4192</discord>
-    </links>
 </ModInfo>
