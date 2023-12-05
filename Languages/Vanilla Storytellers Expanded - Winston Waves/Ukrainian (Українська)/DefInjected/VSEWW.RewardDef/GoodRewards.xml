@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Allies! -->
+    <VSEWW_Allies.label>Союзники!</VSEWW_Allies.label>
+    <!-- EN: Next wave also brings allies that are 2x the regular size, to help you -->
+    <VSEWW_Allies.description>Наступна хвиля також додає союзників, які вдвічі більше звичайного розміру, щоб допомогти вам</VSEWW_Allies.description>
+    <!-- EN: Combat Animal drop -->
+    <VSEWW_CombatAnimalDrop.label>Скинути бойову тварину</VSEWW_CombatAnimalDrop.label>
+    <!-- EN: Cargo pod drops 5 random, tamed combat animals -->
+    <VSEWW_CombatAnimalDrop.description>Вантажна капсула скидає 5 випадкових приручених бойових тварин</VSEWW_CombatAnimalDrop.description>
+    <!-- EN: Delay next wave -->
+    <VSEWW_DelayBy7.label>Затримати наступну хвилю</VSEWW_DelayBy7.label>
+    <!-- EN: Next wave is delayed by 7 days -->
+    <VSEWW_DelayBy7.description>Наступна хвиля затримується на 7 днів</VSEWW_DelayBy7.description>
+    <!-- EN: Archotech artifacts drop -->
+    <VSEWW_GoodArchotechArtifactsDrop.label>Архотехнічні артефакти</VSEWW_GoodArchotechArtifactsDrop.label>
+    <!-- EN: Receive 5 random archotech items (can be minified structures) -->
+    <VSEWW_GoodArchotechArtifactsDrop.description>Отримати 5 випадкових архотехнічних предметів (можуть бути мініатюрними спорудами)</VSEWW_GoodArchotechArtifactsDrop.description>
+    <!-- EN: Good armor drop -->
+    <VSEWW_GoodArmorDrop.label>Скинути хорошу броню</VSEWW_GoodArmorDrop.label>
+    <!-- EN: Cargo pods 3 random pieces of armor, quality is Good -->
+    <VSEWW_GoodArmorDrop.description>Вантажні капсули скидають 3 випадкових обладунків хорошої якості</VSEWW_GoodArmorDrop.description>
+    <!-- EN: Cash -->
+    <VSEWW_GoodCashDrop.label>Готівка</VSEWW_GoodCashDrop.label>
+    <!-- EN: Cargo pods drop 5000 silver, 250 gold -->
+    <VSEWW_GoodCashDrop.description>Вантажні капсули скидають 5000 срібла, 250 золота</VSEWW_GoodCashDrop.description>
+    <!-- EN: Components drop -->
+    <VSEWW_GoodComponentDrop.label>Скинути компоненти</VSEWW_GoodComponentDrop.label>
+    <!-- EN: Cargo pods drop 60 components, 15 advanced components -->
+    <VSEWW_GoodComponentDrop.description>Вантажні капсули скидають 60 компонентів, 15 просунутих компонентів</VSEWW_GoodComponentDrop.description>
+    <!-- EN: Drugs drop -->
+    <VSEWW_GoodDrugsDrop.label>Скинути ліки</VSEWW_GoodDrugsDrop.label>
+    <!-- EN: Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice -->
+    <VSEWW_GoodDrugsDrop.description>Отримати 10 амброзії, 10 психітового чаю, 20 пива, 20 косяків, 20 психітових пластівців, 20 психітового порошку, 20 бадьорину, 20 го-соку</VSEWW_GoodDrugsDrop.description>
+    <!-- EN: Food and medicine drop -->
+    <VSEWW_GoodFoodAndMedicineDrop.label>Скинути їжу та ліки</VSEWW_GoodFoodAndMedicineDrop.label>
+    <!-- EN: Cargo pods drop 100 survival meals and 100 medicine -->
+    <VSEWW_GoodFoodAndMedicineDrop.description>Вантажні капсули скидають 100 сухих пайків та 100 ліків</VSEWW_GoodFoodAndMedicineDrop.description>
+    <!-- EN: Fuel drop -->
+    <VSEWW_GoodFuelDrop.label>Скинути паливо</VSEWW_GoodFuelDrop.label>
+    <!-- EN: Cargo pods drop 800 chemfuel, 800 wood and 250 uranium -->
+    <VSEWW_GoodFuelDrop.description>Вантажні капсули скидають 800 хімпалива, 800 деревини та 250 урану</VSEWW_GoodFuelDrop.description>
+    <!-- EN: Pawns join -->
+    <VSEWW_GoodPawnJoins.label>Пішаки приєднуються</VSEWW_GoodPawnJoins.label>
+    <!-- EN: A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony -->
+    <VSEWW_GoodPawnJoins.description>Група з 3 пішаків вартістю мінімум 100 і до 175 бойових очок приєднується до колонії</VSEWW_GoodPawnJoins.description>
+    <!-- EN: Prosthetics drop -->
+    <VSEWW_GoodProstheticsDrop.label>Скинути протези</VSEWW_GoodProstheticsDrop.label>
+    <!-- EN: Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics -->
+    <VSEWW_GoodProstheticsDrop.description>Вантажна капсула скидає 5 випадкових низькорівневих протезів і 5 біонічних протезів</VSEWW_GoodProstheticsDrop.description>
+    <!-- EN: Research boost -->
+    <VSEWW_GoodReseachBoost.label>Стимулювання досліджень</VSEWW_GoodReseachBoost.label>
+    <!-- EN: Instantly research 5 random research projects you meet prerequisites for -->
+    <VSEWW_GoodReseachBoost.description>Миттєво досліджуйте 5 випадкових дослідницьких проєктів, для участі в яких ви відповідаєте необхідним умовам</VSEWW_GoodReseachBoost.description>
+    <!-- EN: Resource drop -->
+    <VSEWW_GoodResourceDrop.label>Скинути ресурси</VSEWW_GoodResourceDrop.label>
+    <!-- EN: Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel -->
+    <VSEWW_GoodResourceDrop.description>Вантажні капсули скидають 500 деревини, 500 сталі, 30 компонентів і 200 пласталі</VSEWW_GoodResourceDrop.description>
+    <!-- EN: Skill boost -->
+    <VSEWW_GoodSkillBoost.label>Підвищення навичок</VSEWW_GoodSkillBoost.label>
+    <!-- EN: Improve every skill of every pawn under your control by 2 -->
+    <VSEWW_GoodSkillBoost.description>Покращуйте кожну навичку кожного пішака під вашим контролем на 2</VSEWW_GoodSkillBoost.description>
+    <!-- EN: Textile drop -->
+    <VSEWW_GoodTextileDrop.label>Скинутий текстиль</VSEWW_GoodTextileDrop.label>
+    <!-- EN: Cargo pod drops 1000 random pieces of leather or textile -->
+    <VSEWW_GoodTextileDrop.description>Вантажна капсула скидає 1000 випадкових шматочків шкіри або текстилю</VSEWW_GoodTextileDrop.description>
+    <!-- EN: Good weapons drop -->
+    <VSEWW_GoodWeaponsDrop.label>Скинути хорошу зброю</VSEWW_GoodWeaponsDrop.label>
+    <!-- EN: Cargo pods 3 random weapons, quality is Good -->
+    <VSEWW_GoodWeaponsDrop.description>Вантажні капсули скидають 3 випадкові одиниці зброї хорошої якості</VSEWW_GoodWeaponsDrop.description>
+    <!-- EN: Orbital bombardment targeter -->
+    <VSEWW_OrbitalTargeterBombardmentDrop.label>Вказівник орбітального бомбардування</VSEWW_OrbitalTargeterBombardmentDrop.label>
+    <!-- EN: Receive an orbital bombardment targeter -->
+    <VSEWW_OrbitalTargeterBombardmentDrop.description>Отримати вказівник орбітального бомбардування</VSEWW_OrbitalTargeterBombardmentDrop.description>
+    <!-- EN: Orbital beam targeter -->
+    <VSEWW_OrbitalTargeterPowerBeamDrop.label>Вказівник орбітального променя</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+    <!-- EN: Receive an orbital beam targeter -->
+    <VSEWW_OrbitalTargeterPowerBeamDrop.description>Отримати вказівник орбітального променя</VSEWW_OrbitalTargeterPowerBeamDrop.description>
+    <!-- EN: Orbital Trader Arrival -->
+    <VSEWW_OrbitalTraderArrival.label>Прибуття орбітального трейдера</VSEWW_OrbitalTraderArrival.label>
+    <!-- EN: Send a random orbital trader -->
+    <VSEWW_OrbitalTraderArrival.description>Надішліть випадкового орбітального трейдера</VSEWW_OrbitalTraderArrival.description>
+    <!-- EN: Random Excellent reward -->
+    <VSEWW_RandomExcellentDrop.label>Випадкова чудова винагорода</VSEWW_RandomExcellentDrop.label>
+    <!-- EN: Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward -->
+    <VSEWW_RandomExcellentDrop.description>Замість вибору конкретної винагороди рівня Хороший, отримайте випадкову винагороду рівня Чудовий</VSEWW_RandomExcellentDrop.description>
+    <!-- EN: Tornado generator -->
+    <VSEWW_TornadoGeneratorDrop.label>Генератор торнадо</VSEWW_TornadoGeneratorDrop.label>
+    <!-- EN: Receive a tornado generator -->
+    <VSEWW_TornadoGeneratorDrop.description>Отримати генератор торнадо</VSEWW_TornadoGeneratorDrop.description>
+    <!-- EN: Weaken next wave -->
+    <VSEWW_Weaken50.label>Послаблення наступної хвилі</VSEWW_Weaken50.label>
+    <!-- EN: Next wave only has 50% Combat points it would normally have -->
+    <VSEWW_Weaken50.description>Наступна хвиля має лише 50% бойових очок від нормальної кількості</VSEWW_Weaken50.description>
+</LanguageData>

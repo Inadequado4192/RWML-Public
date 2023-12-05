@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Archotech prosthetics drop -->
+    <VSEWW_ArchotechProstheticsDrop.label>Скинути архотехнічний протез</VSEWW_ArchotechProstheticsDrop.label>
+    <!-- EN: Cargo pod drops random 10 archotech body parts -->
+    <VSEWW_ArchotechProstheticsDrop.description>Вантажна капсула скидає 10 випадкових архотехнічних частин тіла</VSEWW_ArchotechProstheticsDrop.description>
+    <!-- EN: Cash and Riches -->
+    <VSEWW_CashAndRiches.label>Гроші та багатство</VSEWW_CashAndRiches.label>
+    <!-- EN: Cargo pods drop 25000 silver, 1000 gold, 1000 Jade -->
+    <VSEWW_CashAndRiches.description>Вантажні капсули скидають 25000 срібла, 1000 золота, 1000 нефриту</VSEWW_CashAndRiches.description>
+    <!-- EN: Fuel drop -->
+    <VSEWW_LegendaryFuelDrop.label>Скинути паливо</VSEWW_LegendaryFuelDrop.label>
+    <!-- EN: Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium -->
+    <VSEWW_LegendaryFuelDrop.description>Вантажні капсули скидають 2000 хімпалива, 2000 деревини та 800 урану</VSEWW_LegendaryFuelDrop.description>
+    <!-- EN: Legendary gear drop -->
+    <VSEWW_LegendaryGearDrop.label>Скинути легендарне спорядження</VSEWW_LegendaryGearDrop.label>
+    <!-- EN: Cargo pods 5 random weapons and 5 random armors drop, quality is Legendary -->
+    <VSEWW_LegendaryGearDrop.description>Вантажні капсули скидають 5 випадкових одиниць зброї та 5 випадкових одиниць броні легендарної якості</VSEWW_LegendaryGearDrop.description>
+    <!-- EN: Resource drop -->
+    <VSEWW_LegendaryResourceDrop.label>Скинути ресурси</VSEWW_LegendaryResourceDrop.label>
+    <!-- EN: Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components, 500 plasteel -->
+    <VSEWW_LegendaryResourceDrop.description>Вантажні капсули скидають 3000 дерева, 3000 сталі, 100 компонентів, 50 просунутих компонентів, 500 пласталі</VSEWW_LegendaryResourceDrop.description>
+    <!-- EN: Skill boost -->
+    <VSEWW_LegendarySkillBoost.label>Підвищення навичок</VSEWW_LegendarySkillBoost.label>
+    <!-- EN: Improve every skill of every pawn under your control by 5 -->
+    <VSEWW_LegendarySkillBoost.description>Покращуйте кожну навичку кожного пішака під вашим контролем на 5</VSEWW_LegendarySkillBoost.description>
+    <!-- EN: Mass Heal -->
+    <VSEWW_MassHeal.label>Масове зцілення</VSEWW_MassHeal.label>
+    <!-- EN: Instantly heals all the wounds on all pawns under player control -->
+    <VSEWW_MassHeal.description>Миттєво зцілює всі рани на всіх пішаках під контролем гравця</VSEWW_MassHeal.description>
+    <!-- EN: Pawns join -->
+    <VSEWW_MercenaryJoins.label>Пішаки приєднуються</VSEWW_MercenaryJoins.label>
+    <!-- EN: A group of 5 mercenary PawnKindDef pawns join -->
+    <VSEWW_MercenaryJoins.description>Група з 5 пішаків-найманців PawnKindDef приєднується</VSEWW_MercenaryJoins.description>
+    <!-- EN: Survival means drop -->
+    <VSEWW_SurvivalMeansDrop.label>Скинути засоби виживання</VSEWW_SurvivalMeansDrop.label>
+    <!-- EN: Cargo pods drop 250 survival meals, 50 glitterworld medicine, 5 Mechanite healer mech serums and 200 medicine -->
+    <VSEWW_SurvivalMeansDrop.description>Вантажні капсули скидають 250 сухих пайків, 50 ліків блискосвіту, 5 цілющих мех сироваток та 200 ліків</VSEWW_SurvivalMeansDrop.description>
+    <!-- EN: Thrumbo drop -->
+    <VSEWW_ThrumboDrop.label>Скинути трумбо</VSEWW_ThrumboDrop.label>
+    <!-- EN: Cargo pod drops 3 tamed thrumbos -->
+    <VSEWW_ThrumboDrop.description>Вантажна капсула скидає 3 приручених трумбо</VSEWW_ThrumboDrop.description>
+</LanguageData>

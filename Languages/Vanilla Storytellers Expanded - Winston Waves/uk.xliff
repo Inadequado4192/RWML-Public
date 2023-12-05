@@ -1,0 +1,3176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="2806" original="/Vanilla Storytellers Expanded - Winston Waves/Keyed/Misc.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34012">
+        <source>Random reward of the {0} category</source>
+        <target state="translated">Випадкова нагорода категорії &quot;{0}&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomRewardOf
+ EN: Random reward of the {0} category </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34014">
+        <source>{0} random apparel(s) of {1} quality with the {3} tag</source>
+        <target state="translated">{0} випадковий(ого) одяг(у) якості &quot;{1}&quot; з тегом &quot;{3}&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomApparel
+ EN: {0} random apparel(s) of {1} quality with the {3} tag </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34016">
+        <source>{0} random weapon(s) of {1} quality with the {3} tag</source>
+        <target state="translated">{0} випадкова(і) зброя(ї) якості &quot;{1}&quot; з тегом &quot;{3}&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomWeapons
+ EN: {0} random weapon(s) of {1} quality with the {3} tag </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34018">
+        <source>{0} random thing(s) of {1} quality within the {3} category</source>
+        <target state="translated">{0} випадковий(х) предмет(ів) якості &quot;{1}&quot; у категорії &quot;{3}&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomThing
+ EN: {0} random thing(s) of {1} quality within the {3} category </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34020">
+        <source>{0} random thing(s) of {1} quality within the {3} categories</source>
+        <target state="translated">{0} випадковий(х) предмет(ів) якості &quot;{1}&quot; у категоріях &quot;{3}&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomThingMC
+ EN: {0} random thing(s) of {1} quality within the {3} categories </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34022">
+        <source>{0} random stone blocks</source>
+        <target state="translated">{0} випадкових кам'яних блоків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomBlocks
+ EN: {0} random stone blocks </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34024">
+        <source>{0} random pawn(s) of {1} intelligence</source>
+        <target state="translated">{0} випадковий(і) пішак(и) з інтелектом {1}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomPawns
+ EN: {0} random pawn(s) of {1} intelligence </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34026">
+        <source>The {0} event</source>
+        <target state="translated">Подія {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.FiringEvent
+ EN: The {0} event </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34028">
+        <source>{0} {1}</source>
+        <target state="translated">{0} {1}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Item
+ EN: {0} {1} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34030">
+        <source>{0} {1} of {2} quality</source>
+        <target state="translated">{0} {1} {2} якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ItemWQuality
+ EN: {0} {1} of {2} quality </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34032">
+        <source>{0} {1}</source>
+        <target state="translated">{0} {1}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Pawn
+ EN: {0} {1} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34034">
+        <source>Unlock {0} researches</source>
+        <target state="translated">Розблокувати {0} досліджень</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Research
+ EN: Unlock {0} researches </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34036">
+        <source>Add {0} points to every colonists, slaves and prisonners</source>
+        <target state="translated">Додайте {0} очок до кожного колоніста, раба та полоненого</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.SkillBoost
+ EN: Add {0} points to every colonists, slaves and prisonners </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34038">
+        <source>Next wave is delayed by {0} days</source>
+        <target state="translated">Наступна хвиля затримується на {0} днів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Delay
+ EN: Next wave is delayed by {0} days </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34040">
+        <source>Next wave is wekeaned by {0}</source>
+        <target state="translated">Наступна хвиля послаблюється на {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Weaken
+ EN: Next wave is wekeaned by {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34042">
+        <source>Next wave will also spawn friendlies to help you out</source>
+        <target state="translated">У наступній хвилі також з'являться друзі, які допоможуть вам</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Allies
+ EN: Next wave will also spawn friendlies to help you out </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34044">
+        <source>Instantly heal all damages on all colonists, slaves and prisonners</source>
+        <target state="translated">Миттєво зцілення всіх пошкоджень на всіх колоністах, рабах і полонених</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MassHeal
+ EN: Instantly heal all damages on all colonists, slaves and prisonners </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34046">
+        <source>{0} has been researched</source>
+        <target state="translated">Було досліджено: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ResearchUnlocked
+ EN: {0} has been researched </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34048">
+        <source>{0} reward</source>
+        <target state="translated">{0} винагорода</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Reward
+ EN: {0} reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34050">
+        <source>Select reward</source>
+        <target state="translated">Обрати нагороду</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.SelectReward
+ EN: Select reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34052">
+        <source>Wave {0}</source>
+        <target state="translated">{0} хвиля</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.WaveNum
+ EN: Wave {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34054">
+        <source>Enemies coming ({0}):</source>
+        <target state="translated">Вороги йдуть ({0}):</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.EnemiesC
+ EN: Enemies coming ({0}): </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34056">
+        <source>Defeat remaining enemies:</source>
+        <target state="translated">Перемогти решту ворогів:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.EnemiesR
+ EN: Defeat remaining enemies: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34058">
+        <source>You are getting: {0}</source>
+        <target state="translated">Ви отримуєте: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandRewardOutcome
+ EN: You are getting: {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34060">
+        <source>Removing other reward drop spot</source>
+        <target state="translated">Видалення іншого місця падіння нагороди</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RemoveOldDropSpot
+ EN: Removing other reward drop spot </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34062">
+        <source>Summon early</source>
+        <target state="translated">Викликати завчасно</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.SkipWave
+ EN: Summon early </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34064">
+        <source>Boss wave</source>
+        <target state="translated">Хвиля боса</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.BossWave
+ EN: Boss wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34066">
+        <source>Normal wave</source>
+        <target state="translated">Нормальна хвиля</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.NormalWave
+ EN: Normal wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34068">
+        <source>{0} points used</source>
+        <target state="translated">{0} балів використано</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.PointUsed
+ EN: {0} points used </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34070">
+        <source>Reward commonality at this wave:</source>
+        <target state="translated">Винагорода за спільність на цій хвилі:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RewardChance
+ EN: Reward commonality at this wave: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34072">
+        <source>{0} chance of getting a fourth reward choice if summoning the wave now</source>
+        <target state="translated">{0} шанс отримати четвертий вибір нагороди, якщо викликати хвилю зараз</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MoreRewardChance
+ EN: {0} chance of getting a fourth reward choice if summoning the wave now </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34074">
+        <source>Game Over!</source>
+        <target state="translated">Гру завершено!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.GameOver
+ EN: Game Over! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34076">
+        <source>Waves survived: {0}</source>
+        <target state="translated">Хвиль пережито: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.SurvivedX
+ EN: Waves survived: {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34078">
+        <source>Days survived: {0}</source>
+        <target state="translated">Днів пережито: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.SurvivedDaysX
+ EN: Days survived: {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34080">
+        <source>Total kills: {0}</source>
+        <target state="translated">Загальна кількість убивств: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TotalKill
+ EN: Total kills: {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34082">
+        <source>Greatest population: {0}</source>
+        <target state="translated">Найбільша популяція: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MaxPopEver
+ EN: Greatest population: {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34084">
+        <source>Reinforcement!</source>
+        <target state="translated">Підкріплення!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Reinforcement
+ EN: Reinforcement! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34086">
+        <source>Final score: {0}</source>
+        <target state="translated">Остаточний результат: {0}</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Score
+ EN: Final score: {0} </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34088">
+        <source>Draggable:</source>
+        <target state="translated">Перетягується:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Locked
+ EN: Draggable: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34090">
+        <source>Poor</source>
+        <target state="translated">Погана</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Poor
+ EN: Poor </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34092">
+        <source>Normal</source>
+        <target state="translated">Звичайна</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Normal
+ EN: Normal </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34094">
+        <source>Good</source>
+        <target state="translated">Хороша</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Good
+ EN: Good </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34096">
+        <source>Excellent</source>
+        <target state="translated">Чудова</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Excellent
+ EN: Excellent </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34098">
+        <source>Legendary</source>
+        <target state="translated">Легендарна</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Legendary
+ EN: Legendary </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34100">
+        <source>Raid pawns arriving...</source>
+        <target state="translated">Рейдові пішаки прибувають...</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.PawnsArriving
+ EN: Raid pawns arriving... </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34102">
+        <source>Winston Wave</source>
+        <target state="translated">Вінстон Хвиля</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ModName
+ Settings 
+ EN: Winston Wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34104">
+        <source>Time before first wave:</source>
+        <target state="translated">Час до першої хвилі:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeBeforeFirstWave
+ EN: Time before first wave: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34106">
+        <source>Time between waves:</source>
+        <target state="translated">Час між хвилями:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeBetweenWaves
+ EN: Time between waves: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34108">
+        <source>Maximum days to deafeat a wave:</source>
+        <target state="translated">Максимальна кількість днів для подолання хвилі:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeToDefeatWave
+ EN: Maximum days to deafeat a wave: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34110">
+        <source>Max threat points used:</source>
+        <target state="translated">Максимально використані бали загрози:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MaxPoints
+ EN: Max threat points used: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34112">
+        <source>Enable raid point cap:</source>
+        <target state="translated">Увімкнути ліміт точок рейду:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.EnableMaxPoints
+ EN: Enable raid point cap: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34114">
+        <source>Draw wave counter background:</source>
+        <target state="translated">Намалюйте фон хвильового лічильника:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.DrawBackground
+ EN: Draw wave counter background: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34116">
+        <source>Wave points multiplier before wave 20:</source>
+        <target state="translated">Мультиплікатор хвильових точок перед 20-ю хвилею:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.PointMultiplierBefore20
+ EN: Wave points multiplier before wave 20: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34118">
+        <source>Wave points multiplier after wave 20:</source>
+        <target state="translated">Мультиплікатор хвильових точок після 20-ї хвилі:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.PointMultiplierAfter20
+ EN: Wave points multiplier after wave 20: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34120">
+        <source>Enable stats increase:</source>
+        <target state="translated">Увімкнути збільшення статистики:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.EnableStats
+ EN: Enable stats increase: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34122">
+        <source>Draw wave counter background:</source>
+        <target state="translated">Намалюйте фон хвильового лічильника:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.DrawBack
+ EN: Draw wave counter background: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34124">
+        <source>Enable mystery mode:</source>
+        <target state="translated">Увімкнути режим таємниці:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MysteryMod
+ EN: Enable mystery mode: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34126">
+        <source>Send random reward:</source>
+        <target state="translated">Надішліть випадкову винагороду:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomRewardMod
+ EN: Send random reward: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34128">
+        <source>Exclude modifier(s) from waves:</source>
+        <target state="translated">Виключити модифікатори з хвиль:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.Modifiers
+ EN: Exclude modifier(s) from waves: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34130">
+        <source>Remove modifier(s) from excluded</source>
+        <target state="translated">Видалити модифікатори з виключених</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RModifiers
+ EN: Remove modifier(s) from excluded </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34132">
+        <source>Exclude modifier(s)</source>
+        <target state="translated">Виключити модифікатори</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.AModifiers
+ EN: Exclude modifier(s) </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34134">
+        <source>Exclude certain faction(s) from waves:</source>
+        <target state="translated">Виключити певні фракції з хвиль:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ExcludedFaction
+ EN: Exclude certain faction(s) from waves: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34136">
+        <source>Exclude faction</source>
+        <target state="translated">Виключити фракцію</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.AddExcludedFaction
+ EN: Exclude faction </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34138">
+        <source>Remove faction from excluded</source>
+        <target state="translated">Видалити фракцію з виключених</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RemoveExcludedFaction
+ EN: Remove faction from excluded </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34140">
+        <source>Exclude certain strategies from boss waves:</source>
+        <target state="translated">Виключіть певні стратегії з хвиль босів:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ExcludedStrategy
+ EN: Exclude certain strategies from boss waves: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34142">
+        <source>Exclude raid strategy</source>
+        <target state="translated">Виключити рейдерську стратегію</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.AddExcludedStrategy
+ EN: Exclude raid strategy </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34144">
+        <source>Remove raid strategy from excluded</source>
+        <target state="translated">Видалити стратегію рейду з виключених</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RemoveExcludedStrategy
+ EN: Remove raid strategy from excluded </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34146">
+        <source>Hide the wave counter &quot;draggable&quot; checkbox:</source>
+        <target state="translated">Приховати прапорець &quot;перетягування&quot; лічильника хвиль:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ShowDraggable
+ EN: Hide the wave counter &quot;draggable&quot; checkbox: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34148">
+        <source>Timer use rimworld time:</source>
+        <target state="translated">Таймер використовує час rimworld:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.UseRimworldTime
+ EN: Timer use rimworld time: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34150">
+        <source>Show raiders pawns list and faction:</source>
+        <target state="translated">Показати список пішаків рейдерів та їхні фракції:</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.DontShowPawnList
+ EN: Show raiders pawns list and faction: </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34152">
+        <source>Reset wave counter position</source>
+        <target state="translated">Скинути позицію лічильника хвиль</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ResetCounterPos
+ EN: Reset wave counter position </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34154">
+        <source>Load a save using Winston first!</source>
+        <target state="translated">Спочатку завантажте збереження за допомогою Вінстона!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.LoadToReset
+ EN: Load a save using Winston first! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34156">
+        <source>Reward drop pods also drop steel slag chunk(s)</source>
+        <target state="translated">Нагородні капсули також скидають шматки сталевого шлаку</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.DisableSteelSlagChunk
+ EN: Reward drop pods also drop steel slag chunk(s) </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34158">
+        <source>General</source>
+        <target state="translated">Загальний</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.GS
+ EN: General </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34160">
+        <source>Waves</source>
+        <target state="translated">Хвилі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.VS
+ EN: Waves </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34162">
+        <source>Modifiers</source>
+        <target state="translated">Модифікатори</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MS
+ EN: Modifiers </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34164">
+        <source>Wave counter</source>
+        <target state="translated">Лічильник хвиль</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.WCS
+ EN: Wave counter </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34166">
+        <source>Number of days before the first wave arrive.</source>
+        <target state="translated">Кількість днів до прибуття першої хвилі.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeBeforeFirstWaveTip
+ Settings tooltips 
+ EN: Number of days before the first wave arrive. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34168">
+        <source>Number of days in between each wave.</source>
+        <target state="translated">Кількість днів між кожною хвилею.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeBetweenWavesTip
+ EN: Number of days in between each wave. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34170">
+        <source>Maximum number of days the player have to defeat a wave.</source>
+        <target state="translated">Максимальна кількість днів, за яку гравець може перемогти хвилю.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeToDefeatWaveTip
+ EN: Maximum number of days the player have to defeat a wave. If the wave isn't defeated in this time, the next wave is prepared and no rewards are given. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34172">
+        <source>If the wave isn't defeated in this time, the next wave is prepared and no rewards are given.</source>
+        <target state="translated">Якщо хвиля не переможена за цей час, готується наступна хвиля, і винагороди не видаються.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.TimeToDefeatWaveTip</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34174">
+        <source>Maximum amount of points used in the raid generation.</source>
+        <target state="translated">Максимальна кількість очок, що використовується для генерації рейду.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MaxPointsTip
+ EN: Maximum amount of points used in the raid generation. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34176">
+        <source>Raid point multiplier used before the wave 20.</source>
+        <target state="translated">Множник точки рейду, що використовується перед 20-ю хвилею.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.PointMultiplierBefore20Tip
+ EN: Raid point multiplier used before the wave 20. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34178">
+        <source>Raid point multiplier used after the wave 20.</source>
+        <target state="translated">Множник точки рейду використовується після 20-ї хвилі.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.PointMultiplierAfter20Tip
+ EN: Raid point multiplier used after the wave 20. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34180">
+        <source>Stats increased are: natural healing factor, global work speed, research speed and plant growth speed.</source>
+        <target state="translated">Збільшилися такі показники: природний фактор зцілення, глобальна швидкість роботи, швидкість дослідження та швидкість росту рослин.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.EnableStatsTip
+ EN: Stats increased are: natural healing factor, global work speed, research speed and plant growth speed. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34182">
+        <source>With this enabled, the reward window will never be showed.</source>
+        <target state="translated">Якщо цю опцію увімкнено, вікно винагороди ніколи не буде показано.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomRewardModTip
+ EN: With this enabled, the reward window will never be showed. You will always get a random reward. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34184">
+        <source>You will always get a random reward.</source>
+        <target state="translated">Ви завжди будете отримувати випадкову винагороду.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.RandomRewardModTip</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34186">
+        <source>With this enabled, the modifier will always be hidden.</source>
+        <target state="translated">Якщо цей параметр увімкнено, модифікатор завжди буде приховано.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MysteryModTip
+ EN: With this enabled, the modifier will always be hidden. You will know a modifier has been applied, but not which one. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34188">
+        <source>You will know a modifier has been applied, but not which one.</source>
+        <target state="translated">Ви знатимете, що модифікатор було застосовано, але не знатимете, який саме.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.MysteryModTip</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34190">
+        <source>If disabled, you won't be able to change the counter draggabality until you reactivate this.</source>
+        <target state="translated">Якщо вимкнено, ви не зможете змінити перетягування лічильника, доки не увімкнете його знову.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.ShowDraggableTip
+ EN: If disabled, you won't be able to change the counter draggabality until you reactivate this. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34192">
+        <source>If this is enabled the timer use rimworld time instead of real life time.</source>
+        <target state="translated">Якщо цей параметр увімкнено, таймер використовуватиме час оточення замість реального часу.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW.UseRimworldTimeTip
+ EN: If this is enabled the timer use rimworld time instead of real life time. </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2814" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/GameConditionDef/IncidentsMisc.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34194">
+        <source>Flashstorm</source>
+        <target state="translated">Грозовий шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_FullMapFlashstorm.label
+ EN: Flashstorm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34196">
+        <source>Flashstorm on your whole colony map.</source>
+        <target state="translated">Грозовий шторм на всій карті вашої колонії.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_FullMapFlashstorm.description
+ EN: Flashstorm on your whole colony map. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34198">
+        <source>The flashstorm is ending.</source>
+        <target state="translated">Грозовий шторм закінчується.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_FullMapFlashstorm.endMessage
+ EN: The flashstorm is ending. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34200">
+        <source>Flashstorm</source>
+        <target state="translated">Грозовий шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_FullMapFlashstorm.letterText
+ EN: Flashstorm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34202">
+        <source>meteor storm</source>
+        <target state="translated">Метеоритний шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_MeteorStorm.label
+ EN: meteor storm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34204">
+        <source>Meteor storm on your whole colony map.</source>
+        <target state="translated">Метеоритний шторм на всій карті вашої колонії.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_MeteorStorm.description
+ EN: Meteor storm on your whole colony map. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34206">
+        <source>The meteor storm is ending.</source>
+        <target state="translated">Метеоритний шторм закінчується.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_MeteorStorm.endMessage
+ EN: The meteor storm is ending. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34208">
+        <source>Flashstorm</source>
+        <target state="translated">Метеоритний шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_MeteorStorm.letterText
+ EN: Flashstorm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34210">
+        <source>Orbital bombardement</source>
+        <target state="translated">Орбітальне бомбардування</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_OrbitalBombardement.label
+ EN: Orbital bombardement </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34212">
+        <source>Orbital bombardement target your colony map.</source>
+        <target state="translated">Орбітальне бомбардування націлене на вашу карту колонії.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_OrbitalBombardement.description
+ EN: Orbital bombardement target your colony map. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34214">
+        <source>The orbital bombardement is ending.</source>
+        <target state="translated">Орбітальне бомбардування закінчується.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_OrbitalBombardement.endMessage
+ EN: The orbital bombardement is ending. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34216">
+        <source>Orbital bombardement</source>
+        <target state="translated">Орбітальне бомбардування</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_OrbitalBombardement.letterText
+ EN: Orbital bombardement </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2818" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/HediffDef/BodyPart.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34218">
+        <source>death super acidifier</source>
+        <target state="translated">смертельний супер окислювач</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.label
+ EN: death super acidifier </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34220">
+        <source>An installed death super acidifier.</source>
+        <target state="translated">Встановлений смертельний супер окислювач.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.description
+ EN: An installed death super acidifier. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34222">
+        <source>a death super acidifier</source>
+        <target state="translated">смертельний супер окислювач</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.labelNoun
+ EN: a death super acidifier </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2822" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/HediffDef/HediffStatIncrease.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34224">
+        <source>increased stats</source>
+        <target state="translated">збільшено показники</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_IncreasedStats.label
+ EN: increased stats </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34226">
+        <source>Increased stats as a counterpart of Winston</source>
+        <target state="translated">Збільшення статистики як аналог Вінстона</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_IncreasedStats.description
+ EN: Increased stats as a counterpart of Winston </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2826" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/HediffDef/ModifiersHediffs.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34228">
+        <source>bullet proof</source>
+        <target state="translated">куленепробивний</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_BulletProof.label
+ EN: bullet proof </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34230">
+        <source>bullet proof</source>
+        <target state="translated">куленепробивний</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_BulletProof.description
+ EN: bullet proof </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34232">
+        <source>ninja</source>
+        <target state="translated">ніндзя</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_Ninja.label
+ EN: ninja </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34234">
+        <source>ninja</source>
+        <target state="translated">ніндзя</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_Ninja.description
+ EN: ninja </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34236">
+        <source>no pain</source>
+        <target state="translated">без болю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_NoPain.label
+ EN: no pain </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34238">
+        <source>No pain.</source>
+        <target state="translated">Без болю.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_NoPain.description
+ EN: No pain. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34240">
+        <source>veteran</source>
+        <target state="translated">ветеран</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_Veterans.label
+ EN: veteran </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34242">
+        <source>Veteran</source>
+        <target state="translated">Ветеран</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_Veterans.description
+ EN: Veteran </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34244">
+        <source>boom</source>
+        <target state="translated">бум</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Boom.label
+ EN: boom </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34246">
+        <source>Boom!</source>
+        <target state="translated">Бум!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Boom.description
+ EN: Boom! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34248">
+        <source>bullet sponge</source>
+        <target state="translated">свинцева губка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BulletSponge.label
+ EN: bullet sponge </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34250">
+        <source>bullet sponge</source>
+        <target state="translated">свинцева губка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BulletSponge.description
+ EN: bullet sponge </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34252">
+        <source>sprinter</source>
+        <target state="translated">спринтер</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Sprinter.label
+ EN: sprinter </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34254">
+        <source>Sprint fast.</source>
+        <target state="translated">Швидко бігає.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Sprinter.description
+ EN: Sprint fast. </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2830" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/IncidentDef/IncidentsMisc.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34256">
+        <source>full map flashstorm</source>
+        <target state="translated">карта заповнена грозовим штормом</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_FullMapFlashstorm.label
+ EN: full map flashstorm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34258">
+        <source>meteor storm</source>
+        <target state="translated">метеоритний шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_MeteorStorm.label
+ EN: meteor storm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34260">
+        <source>orbital bombardement</source>
+        <target state="translated">орбітальне бомбардування</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_OrbitalBombardement.label
+ EN: orbital bombardement </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2834" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/VSEWW.ModifierDef/Modifiers.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34262">
+        <source>Acidifiers for everyone!</source>
+        <target state="translated">Кислоти для всіх!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_AcidifiersForEveryone.label
+ EN: Acidifiers for everyone! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34264">
+        <source>All enemies have death acidifiers</source>
+        <target state="translated">Усі вороги мають смертельний окислювач</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_AcidifiersForEveryone.description
+ EN: All enemies have death acidifiers </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34266">
+        <source>Big Bosses</source>
+        <target state="translated">Великі боси</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BigBosses.label
+ EN: Big Bosses </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34268">
+        <source>All enemies are mercenaries.</source>
+        <target state="translated">Всі вороги — найманці.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BigBosses.description
+ EN: All enemies are mercenaries. Wave raid point is divided by two. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34270">
+        <source>Wave raid point is divided by two.</source>
+        <target state="translated">Точка рейду ділиться на два.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BigBosses.description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34272">
+        <source>Body modders</source>
+        <target state="translated">Трансгуманісти</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BodyModder.label
+ EN: Body modders </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34274">
+        <source>All enemies use bionics part.</source>
+        <target state="translated">Всі вороги використовують біоніку.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BodyModder.description
+ EN: All enemies use bionics part. Lower raid size in points. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34276">
+        <source>Lower raid size in points.</source>
+        <target state="translated">Менший розмір рейду в балах.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BodyModder.description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34278">
+        <source>Boom!</source>
+        <target state="translated">Бум!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Boom.label
+ EN: Boom! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34280">
+        <source>All enemies explode when killed</source>
+        <target state="translated">Всі вороги вибухають після вбивства</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Boom.description
+ EN: All enemies explode when killed </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34282">
+        <source>Bulletproof</source>
+        <target state="translated">Куленепробивний</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Bulletproof.label
+ EN: Bulletproof </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34284">
+        <source>All enemies have their natural armor increased by 50%</source>
+        <target state="translated">Природна броня всіх ворогів збільшується на 50%</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Bulletproof.description
+ EN: All enemies have their natural armor increased by 50% </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34286">
+        <source>Bullet sponges</source>
+        <target state="translated">Свинцева губка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BulletSponges.label
+ EN: Bullet sponges </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34288">
+        <source>Health of the enemies is doubled</source>
+        <target state="translated">Здоров'я ворогів подвоюється</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_BulletSponges.description
+ EN: Health of the enemies is doubled </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34290">
+        <source>Charge weapons for everyone!</source>
+        <target state="translated">Заряджайте зброю для всіх!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ChargeForEveryone.label
+ EN: Charge weapons for everyone! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34292">
+        <source>All enemies have a charge weapon.</source>
+        <target state="translated">У всіх ворогів є зарядна зброя.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ChargeForEveryone.description
+ EN: All enemies have a charge weapon. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34294">
+        <source>Double trouble</source>
+        <target state="translated">Подвійна проблема</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DoubleTrouble.label
+ EN: Double trouble </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34296">
+        <source>Raid size in points is doubled</source>
+        <target state="translated">Розмір рейду в балах збільшено вдвічі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DoubleTrouble.description
+ EN: Raid size in points is doubled </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34298">
+        <source>Flashstorm</source>
+        <target state="translated">Метеоритний шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Flashstorm.label
+ EN: Flashstorm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34300">
+        <source>During the wave, flashstorm is present on the map and rain won’t trigger to extinguish the flames</source>
+        <target state="translated">Під час хвилі на карті присутній грозовий шторм, і дощ не зможе загасити полум'я</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Flashstorm.description
+ EN: During the wave, flashstorm is present on the map and rain won’t trigger to extinguish the flames </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34302">
+        <source>Meteor storm</source>
+        <target state="translated">Метеоритний шторм</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MeteorStorm.label
+ EN: Meteor storm </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34304">
+        <source>During the wave, meteors fall on the map.</source>
+        <target state="translated">Під час хвилі на карту падають метеори.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MeteorStorm.description
+ EN: During the wave, meteors fall on the map. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34306">
+        <source>Mystery</source>
+        <target state="translated">Таємниця</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Mystery.label
+ EN: Mystery </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34308">
+        <source>A random modifier has been applied.</source>
+        <target state="translated">Застосовано випадковий модифікатор.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Mystery.description
+ EN: A random modifier has been applied. You will discover it soon enough. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34310">
+        <source>You will discover it soon enough.</source>
+        <target state="translated">Ви дізнаєтесь про це досить скоро.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Mystery.description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34312">
+        <source>No Pain No Gain</source>
+        <target state="translated">Немає болю - немає вигоди</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NoPainNoGain.label
+ EN: No Pain No Gain </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34314">
+        <source>All enemies don’t feel pain</source>
+        <target state="translated">Всі вороги не відчувають болю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NoPainNoGain.description
+ EN: All enemies don’t feel pain </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34316">
+        <source>No retreat!</source>
+        <target state="translated">Не відступайте!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NoRetreat.label
+ EN: No retreat! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34318">
+        <source>Enemies will not retreat</source>
+        <target state="translated">Вороги не відступлять</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NoRetreat.description
+ EN: Enemies will not retreat </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34320">
+        <source>Melee only!</source>
+        <target state="translated">Тільки ближній бій!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OnlyMelee.label
+ EN: Melee only! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34322">
+        <source>All pawns get a melee weapon and a shield belt.</source>
+        <target state="translated">Усі пішаки отримують зброю ближнього бою і поясний енергощит.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OnlyMelee.description
+ EN: All pawns get a melee weapon and a shield belt. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34324">
+        <source>Orbital bombardment</source>
+        <target state="translated">Орбітальне бомбардування</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalBombardment.label
+ EN: Orbital bombardment </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34326">
+        <source>During the wave, orbital bombardment falls on the entire map</source>
+        <target state="translated">Під час хвилі орбітальне бомбардування падає на всю карту</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalBombardment.description
+ EN: During the wave, orbital bombardment falls on the entire map </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34328">
+        <source>Reinforcements</source>
+        <target state="translated">Підкріплення</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Reinforcements.label
+ EN: Reinforcements </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34330">
+        <source>Enemies receive reinforcements from the same faction, worth 50% of the initial wave size, after about 20% of the raid size is defeated</source>
+        <target state="translated">Вороги отримують підкріплення з тієї ж фракції на 50% від початкового розміру хвилі, після того, як буде розгромлено приблизно 20% від розміру рейду</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Reinforcements.description
+ EN: Enemies receive reinforcements from the same faction, worth 50% of the initial wave size, after about 20% of the raid size is defeated </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34332">
+        <source>Snipers for everyone!</source>
+        <target state="translated">Снайпери для всіх!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_SniperForEveryone.label
+ EN: Snipers for everyone! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34334">
+        <source>All enemies get a sniper.</source>
+        <target state="translated">Усі вороги снайпер.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_SniperForEveryone.description
+ EN: All enemies get a sniper. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34336">
+        <source>Sprinters</source>
+        <target state="translated">Спринтери</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Sprinters.label
+ EN: Sprinters </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34338">
+        <source>Movement speed of all the enemies is doubled</source>
+        <target state="translated">Швидкість руху всіх ворогів подвоєна</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Sprinters.description
+ EN: Movement speed of all the enemies is doubled </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34340">
+        <source>Strategic approach</source>
+        <target state="translated">Стратегічний підхід</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_StrategicApproach.label
+ EN: Strategic approach </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34342">
+        <source>Enemies use a combination of : grenades, rocket launcher and sniper.</source>
+        <target state="translated">Вороги використовують комбінацію: гранати, гармату та снайпера.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_StrategicApproach.description
+ EN: Enemies use a combination of : grenades, rocket launcher and sniper. Wave raid point is multiplied by 0.7. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34344">
+        <source>Wave raid point is multiplied by 0.7.</source>
+        <target state="translated">Точка набігу хвилі множиться на 0,7.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_StrategicApproach.description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34346">
+        <source>Veterans</source>
+        <target state="translated">Ветерани</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Veterans.label
+ EN: Veterans </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34348">
+        <source>All stats of the enemies (Manipulation, sight etc) is multiplied by x1.5</source>
+        <target state="translated">Усі показники ворогів (маніпуляції, приціл тощо) множаться на х1.5</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Veterans.description
+ EN: All stats of the enemies (Manipulation, sight etc) is multiplied by x1.5 </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2838" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/RecipeDef/BodyPart.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34350">
+        <source>install death super acidifier</source>
+        <target state="translated">встановити смертельний супер окислювач</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_InstallDeathSuperAcidifier.label
+ EN: install death super acidifier </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34352">
+        <source>Install a death super acidifier.</source>
+        <target state="translated">Встановити смертельний супер окислювач.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_InstallDeathSuperAcidifier.description
+ EN: Install a death super acidifier. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34354">
+        <source>Installing death super acidifier.</source>
+        <target state="translated">Встановлює смертельний супер окислювач.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_InstallDeathSuperAcidifier.jobString
+ EN: Installing death super acidifier. </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2840" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/VSEWW.RewardDef/ExcellentRewards.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34356">
+        <source>Delay next wave</source>
+        <target state="translated">Затримати наступну хвилю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DelayBy15.label
+ EN: Delay next wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34358">
+        <source>The next wave is delayed by 15 days</source>
+        <target state="translated">Наступна хвиля затримується на 15 днів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DelayBy15.description
+ EN: The next wave is delayed by 15 days </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34360">
+        <source>Archotech artifacts drop</source>
+        <target state="translated">Архотехнічні артефакти</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentArchotechArtifactsDrop.label
+ EN: Archotech artifacts drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34362">
+        <source>Receive 8 random archotech items (can be minified structures)</source>
+        <target state="translated">Отримати 8 випадкових архотехнічних предметів (можуть бути мініатюрними спорудами)</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentArchotechArtifactsDrop.description
+ EN: Receive 8 random archotech items (can be minified structures) </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34364">
+        <source>Excellent armor drop</source>
+        <target state="translated">Скинути чудову броню</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentArmorDrop.label
+ EN: Excellent armor drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34366">
+        <source>Cargo pods 5 random pieces of armor, quality is Excellent</source>
+        <target state="translated">Вантажні капсули скидають 5 випадкових обладунків чудової якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentArmorDrop.description
+ EN: Cargo pods 5 random pieces of armor, quality is Excellent </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34368">
+        <source>Cash</source>
+        <target state="translated">Готівка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentCashDrop.label
+ EN: Cash </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34370">
+        <source>Cargo pods drop 10000 silver, 500 gold</source>
+        <target state="translated">Вантажні капсули скидають 10000 срібла, 500 золота</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentCashDrop.description
+ EN: Cargo pods drop 10000 silver, 500 gold </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34372">
+        <source>Drugs drop</source>
+        <target state="translated">Скинути ліки</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentDrugsDrop.label
+ EN: Drugs drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34374">
+        <source>Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up, 200 go juice</source>
+        <target state="translated">Отримати 100 амброзії, 100 психітового чаю, 200 пива, 200 косяків, 200 психітових пластівців, 200 психітового порошку, 200 бадьорину, 200 го-соку</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentDrugsDrop.description
+ EN: Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up, 200 go juice </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34376">
+        <source>Food and medicine drop</source>
+        <target state="translated">Скинути їжу та ліки</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentFoodAndMedicineDrop.label
+ EN: Food and medicine drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34378">
+        <source>Cargo pods drop 120 survival meals, 20 glitterworld medicine and 100 medicine</source>
+        <target state="translated">Вантажні капсули скидають 120 сухих пайків, 20 ліків блискосвіту та 100 ліків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentFoodAndMedicineDrop.description
+ EN: Cargo pods drop 120 survival meals, 20 glitterworld medicine and 100 medicine </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34380">
+        <source>Fuel drop</source>
+        <target state="translated">Скинути паливо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentFuelDrop.label
+ EN: Fuel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34382">
+        <source>Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium</source>
+        <target state="translated">Вантажні капсули скидають 1000 хімпалива, 1000 деревини та 400 урану</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentFuelDrop.description
+ EN: Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34384">
+        <source>Pawns join</source>
+        <target state="translated">Пішаки приєднуються</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentPawnJoins.label
+ EN: Pawns join </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34386">
+        <source>A group of 5 pawns worth a minimum of 175 Combat points joins the colony</source>
+        <target state="translated">Група з 5 пішаків вартістю не менше 175 бойових очок приєднується до колонії</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentPawnJoins.description
+ EN: A group of 5 pawns worth a minimum of 175 Combat points joins the colony </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34388">
+        <source>Prosthetics drop</source>
+        <target state="translated">Скинути протези</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentProstheticsDrop.label
+ EN: Prosthetics drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34390">
+        <source>Cargo pod drops random 10 bionic prosthetics</source>
+        <target state="translated">Вантажна капсула скидає випадкові 10 біонічних протезів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentProstheticsDrop.description
+ EN: Cargo pod drops random 10 bionic prosthetics </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34392">
+        <source>Research boost</source>
+        <target state="translated">Стимулювання досліджень</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentReseachBoost.label
+ EN: Research boost </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34394">
+        <source>Instantly research 8 random research projects you meet prerequisites for</source>
+        <target state="translated">Миттєво досліджуйте 8 випадкових дослідницьких проєктів, для участі в яких ви відповідаєте необхідним умовам</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentReseachBoost.description
+ EN: Instantly research 8 random research projects you meet prerequisites for </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34396">
+        <source>Resource drop</source>
+        <target state="translated">Скинути ресурси</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentResourceDrop.label
+ EN: Resource drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34398">
+        <source>Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel</source>
+        <target state="translated">Вантажні капсули скидають 1000 дерева, 1000 сталі, 60 компонентів, 20 просунутих компонентів і 300 пласталі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentResourceDrop.description
+ EN: Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34400">
+        <source>Skill boost</source>
+        <target state="translated">Підвищення навичок</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentSkillBoost.label
+ EN: Skill boost </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34402">
+        <source>Improve every skill of every pawn under your control by 3</source>
+        <target state="translated">Покращуйте кожну навичку кожного пішака під вашим контролем на 3</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentSkillBoost.description
+ EN: Improve every skill of every pawn under your control by 3 </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34404">
+        <source>Excellent weapons drop</source>
+        <target state="translated">Скинути чудову зброю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentWeaponDrop.label
+ EN: Excellent weapons drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34406">
+        <source>Cargo pods 5 random weapons, quality is Excellent</source>
+        <target state="translated">Вантажні капсули скидають 5 випадкових видів зброї чудової якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ExcellentWeaponDrop.description
+ EN: Cargo pods 5 random weapons, quality is Excellent </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34408">
+        <source>Healer serum drop</source>
+        <target state="translated">Скинути цілющу сироватку</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MechSerumHealerDrop.label
+ EN: Healer serum drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34410">
+        <source>Cargo pod drops 5 Mechanoid healer serum</source>
+        <target state="translated">Вантажна капсула скидає 5 сироваток механоїдного цілителя</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MechSerumHealerDrop.description
+ EN: Cargo pod drops 5 Mechanoid healer serum </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34412">
+        <source>Random Legendary reward</source>
+        <target state="translated">Випадкова легендарна нагорода</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomLegendaryDrop.label
+ EN: Random Legendary reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34414">
+        <source>Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward</source>
+        <target state="translated">Замість вибору конкретної винагороди рівня Чудовий, отримайте випадкову винагороду рівня Легендарний</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomLegendaryDrop.description
+ EN: Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34416">
+        <source>Targeters drop</source>
+        <target state="translated">Скинути вказівник</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_TargetersDrop.label
+ EN: Targeters drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34418">
+        <source>Receive an orbital beam targeter, orbital bombardment targeter and tornado generator</source>
+        <target state="translated">Отримати вказівник орбітального променя, вказівник орбітального бомбардування та генератора торнадо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_TargetersDrop.description
+ EN: Receive an orbital beam targeter, orbital bombardment targeter and tornado generator </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34420">
+        <source>Wargs drop</source>
+        <target state="translated">Скинути варгів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_WargDrop.label
+ EN: Wargs drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34422">
+        <source>Cargo pod drops 10 tamed wargs</source>
+        <target state="translated">Вантажна капсула скидає 10 приручених варгів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_WargDrop.description
+ EN: Cargo pod drops 10 tamed wargs </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2842" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/VSEWW.RewardDef/GoodRewards.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34424">
+        <source>Allies!</source>
+        <target state="translated">Союзники!</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Allies.label
+ EN: Allies! </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34426">
+        <source>Next wave also brings allies that are 2x the regular size, to help you</source>
+        <target state="translated">Наступна хвиля також додає союзників, які вдвічі більше звичайного розміру, щоб допомогти вам</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Allies.description
+ EN: Next wave also brings allies that are 2x the regular size, to help you </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34428">
+        <source>Combat Animal drop</source>
+        <target state="translated">Скинути бойову тварину</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_CombatAnimalDrop.label
+ EN: Combat Animal drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34430">
+        <source>Cargo pod drops 5 random, tamed combat animals</source>
+        <target state="translated">Вантажна капсула скидає 5 випадкових приручених бойових тварин</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_CombatAnimalDrop.description
+ EN: Cargo pod drops 5 random, tamed combat animals </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34432">
+        <source>Delay next wave</source>
+        <target state="translated">Затримати наступну хвилю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DelayBy7.label
+ EN: Delay next wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34434">
+        <source>Next wave is delayed by 7 days</source>
+        <target state="translated">Наступна хвиля затримується на 7 днів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DelayBy7.description
+ EN: Next wave is delayed by 7 days </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34436">
+        <source>Archotech artifacts drop</source>
+        <target state="translated">Архотехнічні артефакти</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodArchotechArtifactsDrop.label
+ EN: Archotech artifacts drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34438">
+        <source>Receive 5 random archotech items (can be minified structures)</source>
+        <target state="translated">Отримати 5 випадкових архотехнічних предметів (можуть бути мініатюрними спорудами)</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodArchotechArtifactsDrop.description
+ EN: Receive 5 random archotech items (can be minified structures) </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34440">
+        <source>Good armor drop</source>
+        <target state="translated">Скинути хорошу броню</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodArmorDrop.label
+ EN: Good armor drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34442">
+        <source>Cargo pods 3 random pieces of armor, quality is Good</source>
+        <target state="translated">Вантажні капсули скидають 3 випадкових обладунків хорошої якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodArmorDrop.description
+ EN: Cargo pods 3 random pieces of armor, quality is Good </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34444">
+        <source>Cash</source>
+        <target state="translated">Готівка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodCashDrop.label
+ EN: Cash </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34446">
+        <source>Cargo pods drop 5000 silver, 250 gold</source>
+        <target state="translated">Вантажні капсули скидають 5000 срібла, 250 золота</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodCashDrop.description
+ EN: Cargo pods drop 5000 silver, 250 gold </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34448">
+        <source>Components drop</source>
+        <target state="translated">Скинути компоненти</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodComponentDrop.label
+ EN: Components drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34450">
+        <source>Cargo pods drop 60 components, 15 advanced components</source>
+        <target state="translated">Вантажні капсули скидають 60 компонентів, 15 просунутих компонентів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodComponentDrop.description
+ EN: Cargo pods drop 60 components, 15 advanced components </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34452">
+        <source>Drugs drop</source>
+        <target state="translated">Скинути ліки</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodDrugsDrop.label
+ EN: Drugs drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34454">
+        <source>Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice</source>
+        <target state="translated">Отримати 10 амброзії, 10 психітового чаю, 20 пива, 20 косяків, 20 психітових пластівців, 20 психітового порошку, 20 бадьорину, 20 го-соку</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodDrugsDrop.description
+ EN: Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34456">
+        <source>Food and medicine drop</source>
+        <target state="translated">Скинути їжу та ліки</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodFoodAndMedicineDrop.label
+ EN: Food and medicine drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34458">
+        <source>Cargo pods drop 100 survival meals and 100 medicine</source>
+        <target state="translated">Вантажні капсули скидають 100 сухих пайків та 100 ліків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodFoodAndMedicineDrop.description
+ EN: Cargo pods drop 100 survival meals and 100 medicine </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34460">
+        <source>Fuel drop</source>
+        <target state="translated">Скинути паливо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodFuelDrop.label
+ EN: Fuel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34462">
+        <source>Cargo pods drop 800 chemfuel, 800 wood and 250 uranium</source>
+        <target state="translated">Вантажні капсули скидають 800 хімпалива, 800 деревини та 250 урану</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodFuelDrop.description
+ EN: Cargo pods drop 800 chemfuel, 800 wood and 250 uranium </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34464">
+        <source>Pawns join</source>
+        <target state="translated">Пішаки приєднуються</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodPawnJoins.label
+ EN: Pawns join </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34466">
+        <source>A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony</source>
+        <target state="translated">Група з 3 пішаків вартістю мінімум 100 і до 175 бойових очок приєднується до колонії</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodPawnJoins.description
+ EN: A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34468">
+        <source>Prosthetics drop</source>
+        <target state="translated">Скинути протези</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodProstheticsDrop.label
+ EN: Prosthetics drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34470">
+        <source>Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics</source>
+        <target state="translated">Вантажна капсула скидає 5 випадкових низькорівневих протезів і 5 біонічних протезів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodProstheticsDrop.description
+ EN: Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34472">
+        <source>Research boost</source>
+        <target state="translated">Стимулювання досліджень</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodReseachBoost.label
+ EN: Research boost </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34474">
+        <source>Instantly research 5 random research projects you meet prerequisites for</source>
+        <target state="translated">Миттєво досліджуйте 5 випадкових дослідницьких проєктів, для участі в яких ви відповідаєте необхідним умовам</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodReseachBoost.description
+ EN: Instantly research 5 random research projects you meet prerequisites for </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34476">
+        <source>Resource drop</source>
+        <target state="translated">Скинути ресурси</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodResourceDrop.label
+ EN: Resource drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34478">
+        <source>Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel</source>
+        <target state="translated">Вантажні капсули скидають 500 деревини, 500 сталі, 30 компонентів і 200 пласталі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodResourceDrop.description
+ EN: Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34480">
+        <source>Skill boost</source>
+        <target state="translated">Підвищення навичок</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodSkillBoost.label
+ EN: Skill boost </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34482">
+        <source>Improve every skill of every pawn under your control by 2</source>
+        <target state="translated">Покращуйте кожну навичку кожного пішака під вашим контролем на 2</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodSkillBoost.description
+ EN: Improve every skill of every pawn under your control by 2 </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34484">
+        <source>Textile drop</source>
+        <target state="translated">Скинутий текстиль</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodTextileDrop.label
+ EN: Textile drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34486">
+        <source>Cargo pod drops 1000 random pieces of leather or textile</source>
+        <target state="translated">Вантажна капсула скидає 1000 випадкових шматочків шкіри або текстилю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodTextileDrop.description
+ EN: Cargo pod drops 1000 random pieces of leather or textile </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34488">
+        <source>Good weapons drop</source>
+        <target state="translated">Скинути хорошу зброю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodWeaponsDrop.label
+ EN: Good weapons drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34490">
+        <source>Cargo pods 3 random weapons, quality is Good</source>
+        <target state="translated">Вантажні капсули скидають 3 випадкові одиниці зброї хорошої якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_GoodWeaponsDrop.description
+ EN: Cargo pods 3 random weapons, quality is Good </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34492">
+        <source>Orbital bombardment targeter</source>
+        <target state="translated">Вказівник орбітального бомбардування</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalTargeterBombardmentDrop.label
+ EN: Orbital bombardment targeter </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34494">
+        <source>Receive an orbital bombardment targeter</source>
+        <target state="translated">Отримати вказівник орбітального бомбардування</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalTargeterBombardmentDrop.description
+ EN: Receive an orbital bombardment targeter </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34496">
+        <source>Orbital beam targeter</source>
+        <target state="translated">Вказівник орбітального променя</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalTargeterPowerBeamDrop.label
+ EN: Orbital beam targeter </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34498">
+        <source>Receive an orbital beam targeter</source>
+        <target state="translated">Отримати вказівник орбітального променя</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalTargeterPowerBeamDrop.description
+ EN: Receive an orbital beam targeter </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34500">
+        <source>Orbital Trader Arrival</source>
+        <target state="translated">Прибуття орбітального трейдера</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalTraderArrival.label
+ EN: Orbital Trader Arrival </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34502">
+        <source>Send a random orbital trader</source>
+        <target state="translated">Надішліть випадкового орбітального трейдера</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_OrbitalTraderArrival.description
+ EN: Send a random orbital trader </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34504">
+        <source>Random Excellent reward</source>
+        <target state="translated">Випадкова чудова винагорода</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomExcellentDrop.label
+ EN: Random Excellent reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34506">
+        <source>Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward</source>
+        <target state="translated">Замість вибору конкретної винагороди рівня Хороший, отримайте випадкову винагороду рівня Чудовий</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomExcellentDrop.description
+ EN: Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34508">
+        <source>Tornado generator</source>
+        <target state="translated">Генератор торнадо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_TornadoGeneratorDrop.label
+ EN: Tornado generator </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34510">
+        <source>Receive a tornado generator</source>
+        <target state="translated">Отримати генератор торнадо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_TornadoGeneratorDrop.description
+ EN: Receive a tornado generator </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34512">
+        <source>Weaken next wave</source>
+        <target state="translated">Послаблення наступної хвилі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Weaken50.label
+ EN: Weaken next wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34514">
+        <source>Next wave only has 50% Combat points it would normally have</source>
+        <target state="translated">Наступна хвиля має лише 50% бойових очок від нормальної кількості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_Weaken50.description
+ EN: Next wave only has 50% Combat points it would normally have </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2844" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/VSEWW.RewardDef/LegendaryRewards.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34516">
+        <source>Archotech prosthetics drop</source>
+        <target state="translated">Скинути архотехнічний протез</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ArchotechProstheticsDrop.label
+ EN: Archotech prosthetics drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34518">
+        <source>Cargo pod drops random 10 archotech body parts</source>
+        <target state="translated">Вантажна капсула скидає 10 випадкових архотехнічних частин тіла</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ArchotechProstheticsDrop.description
+ EN: Cargo pod drops random 10 archotech body parts </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34520">
+        <source>Cash and Riches</source>
+        <target state="translated">Гроші та багатство</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_CashAndRiches.label
+ EN: Cash and Riches </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34522">
+        <source>Cargo pods drop 25000 silver, 1000 gold, 1000 Jade</source>
+        <target state="translated">Вантажні капсули скидають 25000 срібла, 1000 золота, 1000 нефриту</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_CashAndRiches.description
+ EN: Cargo pods drop 25000 silver, 1000 gold, 1000 Jade </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34524">
+        <source>Fuel drop</source>
+        <target state="translated">Скинути паливо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendaryFuelDrop.label
+ EN: Fuel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34526">
+        <source>Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium</source>
+        <target state="translated">Вантажні капсули скидають 2000 хімпалива, 2000 деревини та 800 урану</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendaryFuelDrop.description
+ EN: Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34528">
+        <source>Legendary gear drop</source>
+        <target state="translated">Скинути легендарне спорядження</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendaryGearDrop.label
+ EN: Legendary gear drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34530">
+        <source>Cargo pods 5 random weapons and 5 random armors drop, quality is Legendary</source>
+        <target state="translated">Вантажні капсули скидають 5 випадкових одиниць зброї та 5 випадкових одиниць броні легендарної якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendaryGearDrop.description
+ EN: Cargo pods 5 random weapons and 5 random armors drop, quality is Legendary </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34532">
+        <source>Resource drop</source>
+        <target state="translated">Скинути ресурси</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendaryResourceDrop.label
+ EN: Resource drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34534">
+        <source>Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components, 500 plasteel</source>
+        <target state="translated">Вантажні капсули скидають 3000 дерева, 3000 сталі, 100 компонентів, 50 просунутих компонентів, 500 пласталі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendaryResourceDrop.description
+ EN: Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components, 500 plasteel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34536">
+        <source>Skill boost</source>
+        <target state="translated">Підвищення навичок</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendarySkillBoost.label
+ EN: Skill boost </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34538">
+        <source>Improve every skill of every pawn under your control by 5</source>
+        <target state="translated">Покращуйте кожну навичку кожного пішака під вашим контролем на 5</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LegendarySkillBoost.description
+ EN: Improve every skill of every pawn under your control by 5 </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34540">
+        <source>Mass Heal</source>
+        <target state="translated">Масове зцілення</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MassHeal.label
+ EN: Mass Heal </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34542">
+        <source>Instantly heals all the wounds on all pawns under player control</source>
+        <target state="translated">Миттєво зцілює всі рани на всіх пішаках під контролем гравця</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MassHeal.description
+ EN: Instantly heals all the wounds on all pawns under player control </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34544">
+        <source>Pawns join</source>
+        <target state="translated">Пішаки приєднуються</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MercenaryJoins.label
+ EN: Pawns join </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34546">
+        <source>A group of 5 mercenary PawnKindDef pawns join</source>
+        <target state="translated">Група з 5 пішаків-найманців PawnKindDef приєднується</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MercenaryJoins.description
+ EN: A group of 5 mercenary PawnKindDef pawns join </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34548">
+        <source>Survival means drop</source>
+        <target state="translated">Скинути засоби виживання</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_SurvivalMeansDrop.label
+ EN: Survival means drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34550">
+        <source>Cargo pods drop 250 survival meals, 50 glitterworld medicine, 5 Mechanite healer mech serums and 200 medicine</source>
+        <target state="translated">Вантажні капсули скидають 250 сухих пайків, 50 ліків блискосвіту, 5 цілющих мех сироваток та 200 ліків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_SurvivalMeansDrop.description
+ EN: Cargo pods drop 250 survival meals, 50 glitterworld medicine, 5 Mechanite healer mech serums and 200 medicine </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34552">
+        <source>Thrumbo drop</source>
+        <target state="translated">Скинути трумбо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ThrumboDrop.label
+ EN: Thrumbo drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34554">
+        <source>Cargo pod drops 3 tamed thrumbos</source>
+        <target state="translated">Вантажна капсула скидає 3 приручених трумбо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_ThrumboDrop.description
+ EN: Cargo pod drops 3 tamed thrumbos </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2846" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/VSEWW.RewardDef/NormalRewards.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34556">
+        <source>Caravan arrival</source>
+        <target state="translated">Прибуття каравану</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_CaravanArrival.label
+ EN: Caravan arrival </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34558">
+        <source>A random caravan arrives</source>
+        <target state="translated">Прибуває випадковий караван</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_CaravanArrival.description
+ EN: A random caravan arrives </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34560">
+        <source>Delay next wave</source>
+        <target state="translated">Затримати наступну хвилю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DelayBy3.label
+ EN: Delay next wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34562">
+        <source>Next wave is delayed by 3 days</source>
+        <target state="translated">Наступна хвиля затримується на 3 днів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_DelayBy3.description
+ EN: Next wave is delayed by 3 days </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34564">
+        <source>Meteorite impact</source>
+        <target state="translated">Падіння метеорита</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MeteoriteImpact.label
+ EN: Meteorite impact </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34566">
+        <source>Meteorite impact</source>
+        <target state="translated">Падіння метеорита</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MeteoriteImpact.description
+ EN: Meteorite impact </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34568">
+        <source>Miniturret drop</source>
+        <target state="translated">Скидання мінітурелі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MiniturretDrop.label
+ EN: Miniturret drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34570">
+        <source>Cargo pod drops 3 minified mini-turrets</source>
+        <target state="translated">Вантажна капсула скидає 3 мінітурелі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MiniturretDrop.description
+ EN: Cargo pod drops 3 minified mini-turrets </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34572">
+        <source>Animal drop</source>
+        <target state="translated">Скинути тварину</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalAnimalDrop.label
+ EN: Animal drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34574">
+        <source>Cargo pod drops 2 random, tamed animals</source>
+        <target state="translated">Вантажна капсула скидає 2 випадкових приручених тварин</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalAnimalDrop.description
+ EN: Cargo pod drops 2 random, tamed animals </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34576">
+        <source>Cash</source>
+        <target state="translated">Готівка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalCashDrop.label
+ EN: Cash </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34578">
+        <source>Cargo pods drop 3000 silver</source>
+        <target state="translated">Вантажні капсули скидають 3000 срібла</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalCashDrop.description
+ EN: Cargo pods drop 3000 silver </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34580">
+        <source>Component drop</source>
+        <target state="translated">Скинути компоненти</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalComponentDrop.label
+ EN: Component drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34582">
+        <source>Cargo pods drop 20 components, 5 advanced components</source>
+        <target state="translated">Вантажні капсули скидають 20 компонентів, 5 просунутих компонентів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalComponentDrop.description
+ EN: Cargo pods drop 20 components, 5 advanced components </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34584">
+        <source>Food and medicine drop</source>
+        <target state="translated">Скинути їжу та ліки</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalFoodAndMedicineDrop.label
+ EN: Food and medicine drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34586">
+        <source>Cargo pods drop 30 survival meals and 30 medicine</source>
+        <target state="translated">Вантажні капсули скидають 30 сухих пайків та 30 ліків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalFoodAndMedicineDrop.description
+ EN: Cargo pods drop 30 survival meals and 30 medicine </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34588">
+        <source>Fuel drop</source>
+        <target state="translated">Скинути паливо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalFuelDrop.label
+ EN: Fuel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34590">
+        <source>Cargo pods drop 500 chemfuel</source>
+        <target state="translated">Вантажні капсули скидають 500 хімпалива</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalFuelDrop.description
+ EN: Cargo pods drop 500 chemfuel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34592">
+        <source>Pawn joins</source>
+        <target state="translated">Пішак приєднується</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalPawnJoins.label
+ EN: Pawn joins </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34594">
+        <source>A single pawn worth minimum 50 and up to 125 Combat points joins the colony</source>
+        <target state="translated">До колонії приєднується один пішак вартістю від 50 до 125 бойових очок</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalPawnJoins.description
+ EN: A single pawn worth minimum 50 and up to 125 Combat points joins the colony </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34596">
+        <source>Prosthetics drop</source>
+        <target state="translated">Скинути протези</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalProstheticsDrop.label
+ EN: Prosthetics drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34598">
+        <source>Cargo pod drops 5 random low-level prosthetics</source>
+        <target state="translated">Вантажна капсула скидає 5 випадкових протезів низького рівня</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalProstheticsDrop.description
+ EN: Cargo pod drops 5 random low-level prosthetics </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34600">
+        <source>Research boost</source>
+        <target state="translated">Стимулювання досліджень</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalReseachBoost.label
+ EN: Research boost </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34602">
+        <source>Instantly research 3 random research projects you meet prerequisites for</source>
+        <target state="translated">Миттєво досліджуйте 3 випадкових дослідницьких проєктів, для участі в яких ви відповідаєте необхідним умовам</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalReseachBoost.description
+ EN: Instantly research 3 random research projects you meet prerequisites for </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34604">
+        <source>Resource drop</source>
+        <target state="translated">Скинути ресурси</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalResourceDrop.label
+ EN: Resource drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34606">
+        <source>Cargo pods drop 250 wood, 250 steel, 10 components</source>
+        <target state="translated">Вантажні капсули скидають 250 дерева, 250 сталі, 10 компонентів</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalResourceDrop.description
+ EN: Cargo pods drop 250 wood, 250 steel, 10 components </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34608">
+        <source>Textile drop</source>
+        <target state="translated">Скинутий текстиль</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalTextileDrop.label
+ EN: Textile drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34610">
+        <source>Cargo pod drops 400 random pieces of leather or textile</source>
+        <target state="translated">Вантажна капсула скидає 400 випадкових шматочків шкіри або текстилю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalTextileDrop.description
+ EN: Cargo pod drops 400 random pieces of leather or textile </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34612">
+        <source>Normal weapons drop</source>
+        <target state="translated">Скинути нормальну зброю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalWeaponsDrop.label
+ EN: Normal weapons drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34614">
+        <source>Cargo pods 3 random weapons, quality is normal</source>
+        <target state="translated">Вантажні капсули скидають 3 випадкові одиниці зброї нормальної якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_NormalWeaponsDrop.description
+ EN: Cargo pods 3 random weapons, quality is normal </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34616">
+        <source>Plasteel drop</source>
+        <target state="translated">Скинути пласталь</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PlasteelDrop.label
+ EN: Plasteel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34618">
+        <source>Cargo pods drop 100 plasteel</source>
+        <target state="translated">Вантажні капсули скидають 100 пласталі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PlasteelDrop.description
+ EN: Cargo pods drop 100 plasteel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34620">
+        <source>Psychic Soothe</source>
+        <target state="translated">Психічне заспокоєння</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PsychicSoothe.label
+ EN: Psychic Soothe </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34622">
+        <source>Psychic soothe</source>
+        <target state="translated">Психічне заспокоєння</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PsychicSoothe.description
+ EN: Psychic soothe </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34624">
+        <source>Random Good reward</source>
+        <target state="translated">Випадкова хороша винагорода</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomGoodDrop.label
+ EN: Random Good reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34626">
+        <source>Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward</source>
+        <target state="translated">Замість вибору конкретної винагороди рівня Звичайний, отримайте випадкову винагороду рівня Хороший</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomGoodDrop.description
+ EN: Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34628">
+        <source>Uranium drop</source>
+        <target state="translated">Скинути уран</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_UraniumDrop.label
+ EN: Uranium drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34630">
+        <source>Cargo pods drop 100 uranium</source>
+        <target state="translated">Вантажні капсули скидають 100 урану</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_UraniumDrop.description
+ EN: Cargo pods drop 100 uranium </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2848" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/VSEWW.RewardDef/PoorRewards.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34632">
+        <source>Food drop</source>
+        <target state="translated">Скинути їжу</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_FoodDrop.label
+ EN: Food drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34634">
+        <source>Cargo pods drop 30 survival meals</source>
+        <target state="translated">Вантажні капсули скидають 30 сухих пайків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_FoodDrop.description
+ EN: Cargo pods drop 30 survival meals </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34636">
+        <source>Leather drop</source>
+        <target state="translated">Скинути шкіру</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LeatherDrop.label
+ EN: Leather drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34638">
+        <source>Cargo pod drops 300 random pieces of leather</source>
+        <target state="translated">Вантажна капсула скидає 300 випадкових шматків шкіри</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_LeatherDrop.description
+ EN: Cargo pod drops 300 random pieces of leather </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34640">
+        <source>Medicine drop</source>
+        <target state="translated">Скинути ліки</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MedicineDrop.label
+ EN: Medicine drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34642">
+        <source>Cargo pods drop 30 medicine</source>
+        <target state="translated">Вантажні капсули скидають 30 ліків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_MedicineDrop.description
+ EN: Cargo pods drop 30 medicine </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34644">
+        <source>Cash</source>
+        <target state="translated">Готівка</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorCashDrop.label
+ EN: Cash </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34646">
+        <source>Cargo pods drop 1000 silver</source>
+        <target state="translated">Вантажні капсули скидають 1000 срібла</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorCashDrop.description
+ EN: Cargo pods drop 1000 silver </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34648">
+        <source>Fuel drop</source>
+        <target state="translated">Скинути паливо</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorFuelDrop.label
+ EN: Fuel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34650">
+        <source>Cargo pods drop 200 chemfuel</source>
+        <target state="translated">Вантажні капсули скидають 200 хімпалива</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorFuelDrop.description
+ EN: Cargo pods drop 200 chemfuel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34652">
+        <source>Pawn joins</source>
+        <target state="translated">Пішак приєднується</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorPawnJoins.label
+ EN: Pawn joins </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34654">
+        <source>A single pawn worth up to 50 Combat points joins the colony</source>
+        <target state="translated">До колонії приєднується один пішак вартістю до 50 бойових очок</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorPawnJoins.description
+ EN: A single pawn worth up to 50 Combat points joins the colony </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34656">
+        <source>Poor weapons drop</source>
+        <target state="translated">Скинути погану зброю</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorWeaponsDrop.label
+ EN: Poor weapons drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34658">
+        <source>Cargo pods 3 random weapons, maximum quality is poor</source>
+        <target state="translated">Вантажні капсули 3 випадкової зброї поганої якості</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_PoorWeaponsDrop.description
+ EN: Cargo pods 3 random weapons, maximum quality is poor </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34660">
+        <source>Random normal reward</source>
+        <target state="translated">Випадкова нормальна винагорода</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomNormalDrop.label
+ EN: Random normal reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34662">
+        <source>Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward</source>
+        <target state="translated">Замість вибору конкретної винагороди рівня Погано, отримайте випадкову винагороду рівня Звичайний</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_RandomNormalDrop.description
+ EN: Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34664">
+        <source>Steel drop</source>
+        <target state="translated">Скинути сталь</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_SteelDrop.label
+ EN: Steel drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34666">
+        <source>Cargo pods drop 250 steel</source>
+        <target state="translated">Вантажні капсули скидають 250 сталі</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_SteelDrop.description
+ EN: Cargo pods drop 250 steel </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34668">
+        <source>Stone drop</source>
+        <target state="translated">Скинути камінь</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_StoneDrop.label
+ EN: Stone drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34670">
+        <source>Cargo pods drop 250 stone blocks</source>
+        <target state="translated">Вантажні капсули скидають 250 кам'яних блоків</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_StoneDrop.description
+ EN: Cargo pods drop 250 stone blocks </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34672">
+        <source>Wood drop</source>
+        <target state="translated">Скинути дерево</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_WoodDrop.label
+ EN: Wood drop </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34674">
+        <source>Cargo pods drop 250 wood</source>
+        <target state="translated">Вантажні капсули скидають 250 деревини</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSEWW_WoodDrop.description
+ EN: Cargo pods drop 250 wood </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2850" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/StorytellerDef/Storytellers.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34676">
+        <source>Winston Wave</source>
+        <target state="translated">Вінстон Хвиля</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSE_WinstonWave.label
+ EN: Winston Wave </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34678">
+        <source>Winston is a battle-hardened combat expert, and he believes that through combat, one can find themselves for who they really are.</source>
+        <target state="translated">Вінстон - загартований у боях експерт з ведення бойових дій, і він вірить, що через бій можна знайти себе таким, яким ти є насправді.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSE_WinstonWave.description
+ EN: Winston is a battle-hardened combat expert, and he believes that through combat, one can find themselves for who they really are. Every day you will be attacked by enemy waves increasing in size, but you will be rewarded for each victory. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34680">
+        <source>Every day you will be attacked by enemy waves increasing in size, but you will be rewarded for each victory.</source>
+        <target state="translated">Щодня вас атакуватимуть ворожі хвилі, які збільшуватимуться в розмірах, але за кожну перемогу ви отримаєте винагороду.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VSE_WinstonWave.description</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2852" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/ThingDef/BodyPart.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34682">
+        <source>death super acidifier</source>
+        <target state="translated">смертельний супер окислювач</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.label
+ EN: death super acidifier </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34684">
+        <source>A chest implant for preventing enemy use of captured equipment and bionic.</source>
+        <target state="translated">Грудний імплантат для запобігання використанню ворогом захопленої техніки та біоніки.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.description
+ EN: A chest implant for preventing enemy use of captured equipment and bionic. Upon the user's death, it releases powerful chemicals that dissolve the user. Sometimes used to prevent being captured. </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34686">
+        <source>Upon the user's death, it releases powerful chemicals that dissolve the user.</source>
+        <target state="translated">Після смерті користувача він вивільняє потужні хімічні речовини, які розчиняють його.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.description</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34688">
+        <source>Sometimes used to prevent being captured.</source>
+        <target state="translated">Іноді використовується для того, щоб не потрапити в полон.</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_DeathSuperAcidifier.description</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="2854" original="/Vanilla Storytellers Expanded - Winston Waves/DefInjected/ThingDef/DropSpot.xml" source-language="en" target-language="uk" datatype="plaintext" project-id="610813" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34690">
+        <source>reward drop spot</source>
+        <target state="translated">місце падіння винагороди</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_RewardDropSpot.label
+ EN: reward drop spot </context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34692">
+        <source>Used to mark where rewards should drops</source>
+        <target state="translated">Використовується для позначення місця падіння винагороди</target>
+        <context-group purpose="information">
+          <context context-type="source">Text 
+XPath: /LanguageData/VESWW_RewardDropSpot.description
+ EN: Used to mark where rewards should drops </context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

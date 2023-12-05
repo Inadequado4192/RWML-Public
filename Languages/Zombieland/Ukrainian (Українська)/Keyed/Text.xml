@@ -59,9 +59,9 @@
     <!-- EN: Advanced Settings -->
     <AdvancedSettings>Розширені налаштування</AdvancedSettings>
     <!-- EN: seasons -->
-    <Seasons>сезони</Seasons>
+    <Seasons>сезонів</Seasons>
     <!-- EN: years -->
-    <Years>роки</Years>
+    <Years>років</Years>
     <!-- EN: Overall Difficulty -->
     <ZombielandDifficultyTitle>Загальна складність</ZombielandDifficultyTitle>
     <!-- EN: Threat scale -->
@@ -127,7 +127,7 @@
     <!-- EN: New game -->
     <NewGameTitle>Нова гра</NewGameTitle>
     <!-- EN: Days until zombies come -->
-    <DaysBeforeZombiesCome>Дні до приходу зомбі</DaysBeforeZombiesCome>
+    <DaysBeforeZombiesCome>Днів до приходу зомбі</DaysBeforeZombiesCome>
     <!-- EN: Zombies on the map -->
     <ZombiesOnTheMap>Зомбі на карті</ZombiesOnTheMap>
     <!-- EN: Never more than -->

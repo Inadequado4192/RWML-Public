@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Caravan arrival -->
+    <VSEWW_CaravanArrival.label>Прибуття каравану</VSEWW_CaravanArrival.label>
+    <!-- EN: A random caravan arrives -->
+    <VSEWW_CaravanArrival.description>Прибуває випадковий караван</VSEWW_CaravanArrival.description>
+    <!-- EN: Delay next wave -->
+    <VSEWW_DelayBy3.label>Затримати наступну хвилю</VSEWW_DelayBy3.label>
+    <!-- EN: Next wave is delayed by 3 days -->
+    <VSEWW_DelayBy3.description>Наступна хвиля затримується на 3 днів</VSEWW_DelayBy3.description>
+    <!-- EN: Meteorite impact -->
+    <VSEWW_MeteoriteImpact.label>Падіння метеорита</VSEWW_MeteoriteImpact.label>
+    <!-- EN: Meteorite impact -->
+    <VSEWW_MeteoriteImpact.description>Падіння метеорита</VSEWW_MeteoriteImpact.description>
+    <!-- EN: Miniturret drop -->
+    <VSEWW_MiniturretDrop.label>Скидання мінітурелі</VSEWW_MiniturretDrop.label>
+    <!-- EN: Cargo pod drops 3 minified mini-turrets -->
+    <VSEWW_MiniturretDrop.description>Вантажна капсула скидає 3 мінітурелі</VSEWW_MiniturretDrop.description>
+    <!-- EN: Animal drop -->
+    <VSEWW_NormalAnimalDrop.label>Скинути тварину</VSEWW_NormalAnimalDrop.label>
+    <!-- EN: Cargo pod drops 2 random, tamed animals -->
+    <VSEWW_NormalAnimalDrop.description>Вантажна капсула скидає 2 випадкових приручених тварин</VSEWW_NormalAnimalDrop.description>
+    <!-- EN: Cash -->
+    <VSEWW_NormalCashDrop.label>Готівка</VSEWW_NormalCashDrop.label>
+    <!-- EN: Cargo pods drop 3000 silver -->
+    <VSEWW_NormalCashDrop.description>Вантажні капсули скидають 3000 срібла</VSEWW_NormalCashDrop.description>
+    <!-- EN: Component drop -->
+    <VSEWW_NormalComponentDrop.label>Скинути компоненти</VSEWW_NormalComponentDrop.label>
+    <!-- EN: Cargo pods drop 20 components, 5 advanced components -->
+    <VSEWW_NormalComponentDrop.description>Вантажні капсули скидають 20 компонентів, 5 просунутих компонентів</VSEWW_NormalComponentDrop.description>
+    <!-- EN: Food and medicine drop -->
+    <VSEWW_NormalFoodAndMedicineDrop.label>Скинути їжу та ліки</VSEWW_NormalFoodAndMedicineDrop.label>
+    <!-- EN: Cargo pods drop 30 survival meals and 30 medicine -->
+    <VSEWW_NormalFoodAndMedicineDrop.description>Вантажні капсули скидають 30 сухих пайків та 30 ліків</VSEWW_NormalFoodAndMedicineDrop.description>
+    <!-- EN: Fuel drop -->
+    <VSEWW_NormalFuelDrop.label>Скинути паливо</VSEWW_NormalFuelDrop.label>
+    <!-- EN: Cargo pods drop 500 chemfuel -->
+    <VSEWW_NormalFuelDrop.description>Вантажні капсули скидають 500 хімпалива</VSEWW_NormalFuelDrop.description>
+    <!-- EN: Pawn joins -->
+    <VSEWW_NormalPawnJoins.label>Пішак приєднується</VSEWW_NormalPawnJoins.label>
+    <!-- EN: A single pawn worth minimum 50 and up to 125 Combat points joins the colony -->
+    <VSEWW_NormalPawnJoins.description>До колонії приєднується один пішак вартістю від 50 до 125 бойових очок</VSEWW_NormalPawnJoins.description>
+    <!-- EN: Prosthetics drop -->
+    <VSEWW_NormalProstheticsDrop.label>Скинути протези</VSEWW_NormalProstheticsDrop.label>
+    <!-- EN: Cargo pod drops 5 random low-level prosthetics -->
+    <VSEWW_NormalProstheticsDrop.description>Вантажна капсула скидає 5 випадкових протезів низького рівня</VSEWW_NormalProstheticsDrop.description>
+    <!-- EN: Research boost -->
+    <VSEWW_NormalReseachBoost.label>Стимулювання досліджень</VSEWW_NormalReseachBoost.label>
+    <!-- EN: Instantly research 3 random research projects you meet prerequisites for -->
+    <VSEWW_NormalReseachBoost.description>Миттєво досліджуйте 3 випадкових дослідницьких проєктів, для участі в яких ви відповідаєте необхідним умовам</VSEWW_NormalReseachBoost.description>
+    <!-- EN: Resource drop -->
+    <VSEWW_NormalResourceDrop.label>Скинути ресурси</VSEWW_NormalResourceDrop.label>
+    <!-- EN: Cargo pods drop 250 wood, 250 steel, 10 components -->
+    <VSEWW_NormalResourceDrop.description>Вантажні капсули скидають 250 дерева, 250 сталі, 10 компонентів</VSEWW_NormalResourceDrop.description>
+    <!-- EN: Textile drop -->
+    <VSEWW_NormalTextileDrop.label>Скинутий текстиль</VSEWW_NormalTextileDrop.label>
+    <!-- EN: Cargo pod drops 400 random pieces of leather or textile -->
+    <VSEWW_NormalTextileDrop.description>Вантажна капсула скидає 400 випадкових шматочків шкіри або текстилю</VSEWW_NormalTextileDrop.description>
+    <!-- EN: Normal weapons drop -->
+    <VSEWW_NormalWeaponsDrop.label>Скинути нормальну зброю</VSEWW_NormalWeaponsDrop.label>
+    <!-- EN: Cargo pods 3 random weapons, quality is normal -->
+    <VSEWW_NormalWeaponsDrop.description>Вантажні капсули скидають 3 випадкові одиниці зброї нормальної якості</VSEWW_NormalWeaponsDrop.description>
+    <!-- EN: Plasteel drop -->
+    <VSEWW_PlasteelDrop.label>Скинути пласталь</VSEWW_PlasteelDrop.label>
+    <!-- EN: Cargo pods drop 100 plasteel -->
+    <VSEWW_PlasteelDrop.description>Вантажні капсули скидають 100 пласталі</VSEWW_PlasteelDrop.description>
+    <!-- EN: Psychic Soothe -->
+    <VSEWW_PsychicSoothe.label>Психічне заспокоєння</VSEWW_PsychicSoothe.label>
+    <!-- EN: Psychic soothe -->
+    <VSEWW_PsychicSoothe.description>Психічне заспокоєння</VSEWW_PsychicSoothe.description>
+    <!-- EN: Random Good reward -->
+    <VSEWW_RandomGoodDrop.label>Випадкова хороша винагорода</VSEWW_RandomGoodDrop.label>
+    <!-- EN: Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward -->
+    <VSEWW_RandomGoodDrop.description>Замість вибору конкретної винагороди рівня Звичайний, отримайте випадкову винагороду рівня Хороший</VSEWW_RandomGoodDrop.description>
+    <!-- EN: Uranium drop -->
+    <VSEWW_UraniumDrop.label>Скинути уран</VSEWW_UraniumDrop.label>
+    <!-- EN: Cargo pods drop 100 uranium -->
+    <VSEWW_UraniumDrop.description>Вантажні капсули скидають 100 урану</VSEWW_UraniumDrop.description>
+</LanguageData>

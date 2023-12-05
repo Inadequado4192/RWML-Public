@@ -1894,7 +1894,7 @@ XPath: /LanguageData/ZombielandContaminationTitle_Help</context>
       </trans-unit>
       <trans-unit id="33026">
         <source>Toggling contamination affects how Zombieland patches RimWorld and other settings that are not save game related.</source>
-        <target state="translated">Увімкнення забруднення впливає на те, як Zombieland вносить зміни до RimWorld та інших налаштувань, які не пов'язані зі збереженнями гри.</target>
+        <target state="translated">Увімкнення зараження впливає на те, як Zombieland вносить зміни до RimWorld та інших налаштувань, які не пов'язані зі збереженнями гри.</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/ContaminationEnabled_Help
@@ -2129,7 +2129,7 @@ XPath: /LanguageData/SmartWandering_Help
       </trans-unit>
       <trans-unit id="33082">
         <source>&quot;Random&quot; makes them move like at daytime.</source>
-        <target state="translated">&quot;Випадковість&quot; змушує їх рухатися, як вдень.</target>
+        <target state="translated">\n - &quot;Випадковий&quot; змушує їх рухатися, як вдень.</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/SmartWandering_Help</context>
@@ -2137,7 +2137,7 @@ XPath: /LanguageData/SmartWandering_Help</context>
       </trans-unit>
       <trans-unit id="33084">
         <source>&quot;Simple&quot; will make them drift towards the most interesting part of the map but they can become stuck and build groups.</source>
-        <target state="translated">&quot;Прості&quot; змусять їх дрейфувати до найцікавішої частини мапи, але вони можуть застрягти і об'єднатися в групи.</target>
+        <target state="translated">\n - &quot;Простий&quot; змусять їх дрейфувати до найцікавішої частини мапи, але вони можуть застрягти та об'єднатися в групи.</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/SmartWandering_Help</context>
@@ -2145,7 +2145,7 @@ XPath: /LanguageData/SmartWandering_Help</context>
       </trans-unit>
       <trans-unit id="33086">
         <source>And &quot;Smart&quot; will eventually bring them to you.</source>
-        <target state="translated">І &quot;Розумний&quot; врешті-решт принесе їх до вас.</target>
+        <target state="translated">\n - &quot;Розумний&quot; врешті-решт принесе їх до вас.</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/SmartWandering_Help</context>
@@ -4228,7 +4228,7 @@ XPath: /LanguageData/AdvancedSettings
       </trans-unit>
       <trans-unit id="33570">
         <source>seasons</source>
-        <target state="translated">сезони</target>
+        <target state="translated">сезонів</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/Seasons
@@ -4237,7 +4237,7 @@ XPath: /LanguageData/Seasons
       </trans-unit>
       <trans-unit id="33572">
         <source>years</source>
-        <target state="translated">роки</target>
+        <target state="translated">років</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/Years
@@ -4534,7 +4534,7 @@ XPath: /LanguageData/NewGameTitle
       </trans-unit>
       <trans-unit id="33638">
         <source>Days until zombies come</source>
-        <target state="translated">Дні до приходу зомбі</target>
+        <target state="translated">Днів до приходу зомбі</target>
         <context-group purpose="information">
           <context context-type="source">Text 
 XPath: /LanguageData/DaysBeforeZombiesCome

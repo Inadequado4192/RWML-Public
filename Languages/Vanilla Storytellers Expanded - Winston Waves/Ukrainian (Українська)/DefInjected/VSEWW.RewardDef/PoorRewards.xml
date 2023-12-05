@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Food drop -->
+    <VSEWW_FoodDrop.label>Скинути їжу</VSEWW_FoodDrop.label>
+    <!-- EN: Cargo pods drop 30 survival meals -->
+    <VSEWW_FoodDrop.description>Вантажні капсули скидають 30 сухих пайків</VSEWW_FoodDrop.description>
+    <!-- EN: Leather drop -->
+    <VSEWW_LeatherDrop.label>Скинути шкіру</VSEWW_LeatherDrop.label>
+    <!-- EN: Cargo pod drops 300 random pieces of leather -->
+    <VSEWW_LeatherDrop.description>Вантажна капсула скидає 300 випадкових шматків шкіри</VSEWW_LeatherDrop.description>
+    <!-- EN: Medicine drop -->
+    <VSEWW_MedicineDrop.label>Скинути ліки</VSEWW_MedicineDrop.label>
+    <!-- EN: Cargo pods drop 30 medicine -->
+    <VSEWW_MedicineDrop.description>Вантажні капсули скидають 30 ліків</VSEWW_MedicineDrop.description>
+    <!-- EN: Cash -->
+    <VSEWW_PoorCashDrop.label>Готівка</VSEWW_PoorCashDrop.label>
+    <!-- EN: Cargo pods drop 1000 silver -->
+    <VSEWW_PoorCashDrop.description>Вантажні капсули скидають 1000 срібла</VSEWW_PoorCashDrop.description>
+    <!-- EN: Fuel drop -->
+    <VSEWW_PoorFuelDrop.label>Скинути паливо</VSEWW_PoorFuelDrop.label>
+    <!-- EN: Cargo pods drop 200 chemfuel -->
+    <VSEWW_PoorFuelDrop.description>Вантажні капсули скидають 200 хімпалива</VSEWW_PoorFuelDrop.description>
+    <!-- EN: Pawn joins -->
+    <VSEWW_PoorPawnJoins.label>Пішак приєднується</VSEWW_PoorPawnJoins.label>
+    <!-- EN: A single pawn worth up to 50 Combat points joins the colony -->
+    <VSEWW_PoorPawnJoins.description>До колонії приєднується один пішак вартістю до 50 бойових очок</VSEWW_PoorPawnJoins.description>
+    <!-- EN: Poor weapons drop -->
+    <VSEWW_PoorWeaponsDrop.label>Скинути погану зброю</VSEWW_PoorWeaponsDrop.label>
+    <!-- EN: Cargo pods 3 random weapons, maximum quality is poor -->
+    <VSEWW_PoorWeaponsDrop.description>Вантажні капсули 3 випадкової зброї поганої якості</VSEWW_PoorWeaponsDrop.description>
+    <!-- EN: Random normal reward -->
+    <VSEWW_RandomNormalDrop.label>Випадкова нормальна винагорода</VSEWW_RandomNormalDrop.label>
+    <!-- EN: Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward -->
+    <VSEWW_RandomNormalDrop.description>Замість вибору конкретної винагороди рівня Погано, отримайте випадкову винагороду рівня Звичайний</VSEWW_RandomNormalDrop.description>
+    <!-- EN: Steel drop -->
+    <VSEWW_SteelDrop.label>Скинути сталь</VSEWW_SteelDrop.label>
+    <!-- EN: Cargo pods drop 250 steel -->
+    <VSEWW_SteelDrop.description>Вантажні капсули скидають 250 сталі</VSEWW_SteelDrop.description>
+    <!-- EN: Stone drop -->
+    <VSEWW_StoneDrop.label>Скинути камінь</VSEWW_StoneDrop.label>
+    <!-- EN: Cargo pods drop 250 stone blocks -->
+    <VSEWW_StoneDrop.description>Вантажні капсули скидають 250 кам'яних блоків</VSEWW_StoneDrop.description>
+    <!-- EN: Wood drop -->
+    <VSEWW_WoodDrop.label>Скинути дерево</VSEWW_WoodDrop.label>
+    <!-- EN: Cargo pods drop 250 wood -->
+    <VSEWW_WoodDrop.description>Вантажні капсули скидають 250 деревини</VSEWW_WoodDrop.description>
+</LanguageData>

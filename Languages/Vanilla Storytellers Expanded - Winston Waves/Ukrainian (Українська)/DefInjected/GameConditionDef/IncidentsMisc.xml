@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Flashstorm -->
+    <VESWW_FullMapFlashstorm.label>Грозовий шторм</VESWW_FullMapFlashstorm.label>
+    <!-- EN: Flashstorm on your whole colony map. -->
+    <VESWW_FullMapFlashstorm.description>Грозовий шторм на всій карті вашої колонії.</VESWW_FullMapFlashstorm.description>
+    <!-- EN: The flashstorm is ending. -->
+    <VESWW_FullMapFlashstorm.endMessage>Грозовий шторм закінчується.</VESWW_FullMapFlashstorm.endMessage>
+    <!-- EN: Flashstorm -->
+    <VESWW_FullMapFlashstorm.letterText>Грозовий шторм</VESWW_FullMapFlashstorm.letterText>
+    <!-- EN: meteor storm -->
+    <VESWW_MeteorStorm.label>Метеоритний шторм</VESWW_MeteorStorm.label>
+    <!-- EN: Meteor storm on your whole colony map. -->
+    <VESWW_MeteorStorm.description>Метеоритний шторм на всій карті вашої колонії.</VESWW_MeteorStorm.description>
+    <!-- EN: The meteor storm is ending. -->
+    <VESWW_MeteorStorm.endMessage>Метеоритний шторм закінчується.</VESWW_MeteorStorm.endMessage>
+    <!-- EN: Flashstorm -->
+    <VESWW_MeteorStorm.letterText>Метеоритний шторм</VESWW_MeteorStorm.letterText>
+    <!-- EN: Orbital bombardement -->
+    <VESWW_OrbitalBombardement.label>Орбітальне бомбардування</VESWW_OrbitalBombardement.label>
+    <!-- EN: Orbital bombardement target your colony map. -->
+    <VESWW_OrbitalBombardement.description>Орбітальне бомбардування націлене на вашу карту колонії.</VESWW_OrbitalBombardement.description>
+    <!-- EN: The orbital bombardement is ending. -->
+    <VESWW_OrbitalBombardement.endMessage>Орбітальне бомбардування закінчується.</VESWW_OrbitalBombardement.endMessage>
+    <!-- EN: Orbital bombardement -->
+    <VESWW_OrbitalBombardement.letterText>Орбітальне бомбардування</VESWW_OrbitalBombardement.letterText>
+</LanguageData>

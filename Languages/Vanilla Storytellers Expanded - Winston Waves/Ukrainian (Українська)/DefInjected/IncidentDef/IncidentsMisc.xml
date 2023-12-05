@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: full map flashstorm -->
+    <VESWW_FullMapFlashstorm.label>карта заповнена грозовим штормом</VESWW_FullMapFlashstorm.label>
+    <!-- EN: meteor storm -->
+    <VESWW_MeteorStorm.label>метеоритний шторм</VESWW_MeteorStorm.label>
+    <!-- EN: orbital bombardement -->
+    <VESWW_OrbitalBombardement.label>орбітальне бомбардування</VESWW_OrbitalBombardement.label>
+</LanguageData>

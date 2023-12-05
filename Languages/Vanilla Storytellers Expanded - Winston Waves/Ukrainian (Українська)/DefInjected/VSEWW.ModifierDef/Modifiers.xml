@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Acidifiers for everyone! -->
+    <VSEWW_AcidifiersForEveryone.label>Кислоти для всіх!</VSEWW_AcidifiersForEveryone.label>
+    <!-- EN: All enemies have death acidifiers -->
+    <VSEWW_AcidifiersForEveryone.description>Усі вороги мають смертельний окислювач</VSEWW_AcidifiersForEveryone.description>
+    <!-- EN: Big Bosses -->
+    <VSEWW_BigBosses.label>Великі боси</VSEWW_BigBosses.label>
+    <!-- EN: All enemies are mercenaries. Wave raid point is divided by two. -->
+    <VSEWW_BigBosses.description>Всі вороги — найманці. Точка рейду ділиться на два.</VSEWW_BigBosses.description>
+    <!-- EN: Body modders -->
+    <VSEWW_BodyModder.label>Трансгуманісти</VSEWW_BodyModder.label>
+    <!-- EN: All enemies use bionics part. Lower raid size in points. -->
+    <VSEWW_BodyModder.description>Всі вороги використовують біоніку. Менший розмір рейду в балах.</VSEWW_BodyModder.description>
+    <!-- EN: Boom! -->
+    <VSEWW_Boom.label>Бум!</VSEWW_Boom.label>
+    <!-- EN: All enemies explode when killed -->
+    <VSEWW_Boom.description>Всі вороги вибухають після вбивства</VSEWW_Boom.description>
+    <!-- EN: Bulletproof -->
+    <VSEWW_Bulletproof.label>Куленепробивний</VSEWW_Bulletproof.label>
+    <!-- EN: All enemies have their natural armor increased by 50% -->
+    <VSEWW_Bulletproof.description>Природна броня всіх ворогів збільшується на 50%</VSEWW_Bulletproof.description>
+    <!-- EN: Bullet sponges -->
+    <VSEWW_BulletSponges.label>Свинцева губка</VSEWW_BulletSponges.label>
+    <!-- EN: Health of the enemies is doubled -->
+    <VSEWW_BulletSponges.description>Здоров'я ворогів подвоюється</VSEWW_BulletSponges.description>
+    <!-- EN: Charge weapons for everyone! -->
+    <VSEWW_ChargeForEveryone.label>Заряджайте зброю для всіх!</VSEWW_ChargeForEveryone.label>
+    <!-- EN: All enemies have a charge weapon. -->
+    <VSEWW_ChargeForEveryone.description>У всіх ворогів є зарядна зброя.</VSEWW_ChargeForEveryone.description>
+    <!-- EN: Double trouble -->
+    <VSEWW_DoubleTrouble.label>Подвійна проблема</VSEWW_DoubleTrouble.label>
+    <!-- EN: Raid size in points is doubled -->
+    <VSEWW_DoubleTrouble.description>Розмір рейду в балах збільшено вдвічі</VSEWW_DoubleTrouble.description>
+    <!-- EN: Flashstorm -->
+    <VSEWW_Flashstorm.label>Метеоритний шторм</VSEWW_Flashstorm.label>
+    <!-- EN: During the wave, flashstorm is present on the map and rain won’t trigger to extinguish the flames -->
+    <VSEWW_Flashstorm.description>Під час хвилі на карті присутній грозовий шторм, і дощ не зможе загасити полум'я</VSEWW_Flashstorm.description>
+    <!-- EN: Meteor storm -->
+    <VSEWW_MeteorStorm.label>Метеоритний шторм</VSEWW_MeteorStorm.label>
+    <!-- EN: During the wave, meteors fall on the map. -->
+    <VSEWW_MeteorStorm.description>Під час хвилі на карту падають метеори.</VSEWW_MeteorStorm.description>
+    <!-- EN: Mystery -->
+    <VSEWW_Mystery.label>Таємниця</VSEWW_Mystery.label>
+    <!-- EN: A random modifier has been applied. You will discover it soon enough. -->
+    <VSEWW_Mystery.description>Застосовано випадковий модифікатор. Ви дізнаєтесь про це досить скоро.</VSEWW_Mystery.description>
+    <!-- EN: No Pain No Gain -->
+    <VSEWW_NoPainNoGain.label>Немає болю - немає вигоди</VSEWW_NoPainNoGain.label>
+    <!-- EN: All enemies don’t feel pain -->
+    <VSEWW_NoPainNoGain.description>Всі вороги не відчувають болю</VSEWW_NoPainNoGain.description>
+    <!-- EN: No retreat! -->
+    <VSEWW_NoRetreat.label>Не відступайте!</VSEWW_NoRetreat.label>
+    <!-- EN: Enemies will not retreat -->
+    <VSEWW_NoRetreat.description>Вороги не відступлять</VSEWW_NoRetreat.description>
+    <!-- EN: Melee only! -->
+    <VSEWW_OnlyMelee.label>Тільки ближній бій!</VSEWW_OnlyMelee.label>
+    <!-- EN: All pawns get a melee weapon and a shield belt. -->
+    <VSEWW_OnlyMelee.description>Усі пішаки отримують зброю ближнього бою і поясний енергощит.</VSEWW_OnlyMelee.description>
+    <!-- EN: Orbital bombardment -->
+    <VSEWW_OrbitalBombardment.label>Орбітальне бомбардування</VSEWW_OrbitalBombardment.label>
+    <!-- EN: During the wave, orbital bombardment falls on the entire map -->
+    <VSEWW_OrbitalBombardment.description>Під час хвилі орбітальне бомбардування падає на всю карту</VSEWW_OrbitalBombardment.description>
+    <!-- EN: Reinforcements -->
+    <VSEWW_Reinforcements.label>Підкріплення</VSEWW_Reinforcements.label>
+    <!-- EN: Enemies receive reinforcements from the same faction, worth 50% of the initial wave size, after about 20% of the raid size is defeated -->
+    <VSEWW_Reinforcements.description>Вороги отримують підкріплення з тієї ж фракції на 50% від початкового розміру хвилі, після того, як буде розгромлено приблизно 20% від розміру рейду</VSEWW_Reinforcements.description>
+    <!-- EN: Snipers for everyone! -->
+    <VSEWW_SniperForEveryone.label>Снайпери для всіх!</VSEWW_SniperForEveryone.label>
+    <!-- EN: All enemies get a sniper. -->
+    <VSEWW_SniperForEveryone.description>Усі вороги снайпер.</VSEWW_SniperForEveryone.description>
+    <!-- EN: Sprinters -->
+    <VSEWW_Sprinters.label>Спринтери</VSEWW_Sprinters.label>
+    <!-- EN: Movement speed of all the enemies is doubled -->
+    <VSEWW_Sprinters.description>Швидкість руху всіх ворогів подвоєна</VSEWW_Sprinters.description>
+    <!-- EN: Strategic approach -->
+    <VSEWW_StrategicApproach.label>Стратегічний підхід</VSEWW_StrategicApproach.label>
+    <!-- EN: Enemies use a combination of : grenades, rocket launcher and sniper. Wave raid point is multiplied by 0.7. -->
+    <VSEWW_StrategicApproach.description>Вороги використовують комбінацію: гранати, гармату та снайпера. Точка набігу хвилі множиться на 0,7.</VSEWW_StrategicApproach.description>
+    <!-- EN: Veterans -->
+    <VSEWW_Veterans.label>Ветерани</VSEWW_Veterans.label>
+    <!-- EN: All stats of the enemies (Manipulation, sight etc) is multiplied by x1.5 -->
+    <VSEWW_Veterans.description>Усі показники ворогів (маніпуляції, приціл тощо) множаться на х1.5</VSEWW_Veterans.description>
+</LanguageData>
